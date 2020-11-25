@@ -33,9 +33,9 @@ curl -s 'https://wikiwiki.jp/nijisanji/%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%8
     do
       echo "$(
         grep -oP '^.*?(?=<)' <<< "$i"
-        ) $(
+      ) $(
         grep -o '>-<' <<< "$i" | wc -l
-        )"
+      )"
     done \
   | sed '1d;/1st/d;s/(2nd)//g;s/ /,/g' >> popular.csv
 
