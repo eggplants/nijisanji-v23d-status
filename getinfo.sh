@@ -6,7 +6,8 @@ curl -s 'https://wikiwiki.jp/nijisanji/衣装等まとめ' \
   | grep -oP '>第1次.*?▲' \
   | grep -oP '(?<=3">)[^<]+(?=<)' \
   | tr , \\n \
-  | tr -d ' ' > 2dv2
+  | tr -d ' ' \
+  > 2dv2
 
 # 3D
 curl -s 'https://wikiwiki.jp/nijisanji/3Dモデルまとめ' \
@@ -39,7 +40,8 @@ curl -s 'https://wikiwiki.jp/nijisanji/%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%8
         grep -o '>-<' <<< "$i" | wc -l
       )"
     done \
-  | sed '1d;/1st/d;s/(2nd)//g;s/ /,/g' >> popular.csv
+  | sed '1d;/1st/d;s/(2nd)//g;s/ /,/g' \
+  >> popular.csv
 
 # res
 rev_ind="$(
@@ -57,4 +59,5 @@ do
   ),$(
     grep -q "$i" 3d && echo o || echo x
   )"
-done >> result.csv
+done \
+>> result.csv
