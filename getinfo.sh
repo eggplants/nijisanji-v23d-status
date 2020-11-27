@@ -32,7 +32,7 @@ curl -s 'https://wikiwiki.jp/nijisanji/メンバーデータ一覧' \
   | tr -d \\n \
   | grep -oP '>デビュー日.*?="model">' \
   | sed 's/left;">/\n/g' \
-  | while read i
+  | while read -r i
     do
       echo "$(
         grep -oP '^.*?(?=<)' <<< "$i"
