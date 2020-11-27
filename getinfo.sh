@@ -13,7 +13,8 @@ curl -s 'https://wikiwiki.jp/nijisanji/3Dモデルまとめ' \
   | tr -d \\n \
   | grep -oP 'n">直.*?gpt' \
   | grep -oP '(?<=>)[^<]+(?=</a></li>)' \
-  | tr -d ' ' > 3d
+  | tr -d ' ' \
+  > 3d
 
 # liver
 curl -s 'https://nijisanji.ichikara.co.jp/member/' \
@@ -21,7 +22,8 @@ curl -s 'https://nijisanji.ichikara.co.jp/member/' \
   | grep -oP '新規デビュー順<.*>Virtu' \
   | grep -oP '(?<=>)[^<]+(?=<)' \
   | sed '/^ *$/d' \
-  | tr -d ' \t' > liver
+  | tr -d ' \t' \
+  > liver
 
 # popular
 echo name,popularity_rev > popular.csv
@@ -48,8 +50,8 @@ for i in $(<liver)
 do
   echo "${i},$(
     sed 1d popular.csv \
-    | awk -F, "/${i}/{print 0.5*(${rev_ind}-\$2) | \"bc\"}" \
-    | xargs printf %.1f
+      | awk -F, "/${i}/{print 0.5*(${rev_ind}-\$2) | \"bc\"}" \
+      | xargs printf %.1f
   ),$(
     grep -q "$i" 2dv2 && echo o || echo x
   ),$(
