@@ -28,7 +28,7 @@ curl -s 'https://nijisanji.ichikara.co.jp/member/' \
 
 # popular
 echo name,popularity_rev > popular.csv
-curl -s 'https://wikiwiki.jp/nijisanji/%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%83%87%E3%83%BC%E3%82%BF%E4%B8%80%E8%A6%A7' \
+curl -s 'https://wikiwiki.jp/nijisanji/メンバーデータ一覧' \
   | tr -d \\n \
   | grep -oP '>デビュー日.*?="model">' \
   | sed 's/left;">/\n/g' \
