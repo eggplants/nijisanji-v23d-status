@@ -19,7 +19,7 @@ jobs:
       run: |
         git config user.name "eggplants"
         git config user.email "${{ secrets.MAIL }}"
-        git remote set-url origin https://eggplants:${{ secrets.PASS }}@github.com/eggplants/nijisanji-v23d-status
+        git remote set-url origin https://eggplants:${{ secrets.GITHUB_TOKEN }}@github.com/eggplants/nijisanji-v23d-status
         git branch
         git checkout master
         git branch
