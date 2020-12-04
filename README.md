@@ -7,6 +7,6 @@
   - 登録者数: `popular.csv`
   - 関係表: `result.csv`
 
-- ソース(2020-11-25現在)
+- ソース
   - [にじさんじ非公式Wiki](https://wikiwiki.jp/nijisanji/)
   - [にじさんじ 公式サイト ライバー一覧](https://nijisanji.ichikara.co.jp/member/)
