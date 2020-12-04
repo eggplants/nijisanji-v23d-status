@@ -2,7 +2,7 @@ name: Update
 
 on:
   schedule:
-  - cron: 0 15 * * 0
+  - cron: 0 15 * * *
   push:
 
 jobs:
