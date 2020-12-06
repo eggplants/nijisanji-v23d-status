@@ -20,10 +20,16 @@ jobs:
         git checkout master
     - name: Run getinfo.sh
       run: |
+        mv result.csv prev_res.csv
         chmod +x ./getinfo.sh
         ./getinfo.sh
+    - name: Diff
+      run: |
+        diff result.csv prev_res.csv
+        cmp result.csv prev_res.csv && exit 1
     - name: Commit
       run: |
+        rm prev_res.csv
         git add .
         git commit -m "update: $(date +%y%m%d)"
         git push origin master
