@@ -8,6 +8,11 @@
   - 関係表: `result.csv`
 - JST 00:00に更新確認
 
-- ソース
-  - [にじさんじ非公式Wiki](https://wikiwiki.jp/nijisanji/)
-  - [にじさんじ 公式サイト ライバー一覧](https://nijisanji.ichikara.co.jp/member/)
+## ソース
+
+- [にじさんじ非公式Wiki](https://wikiwiki.jp/nijisanji)
+  - [衣装等まとめ](https://wikiwiki.jp/nijisanji/衣装等まとめ)
+  - [3Dモデルまとめ](https://wikiwiki.jp/nijisanji/3Dモデルまとめ)
+  - [メンバーデータ一覧](https://wikiwiki.jp/nijisanji/メンバーデータ一覧)
+- [にじさんじ 公式サイト](https://nijisanji.ichikara.co.jp)
+  - [メンバー一覧](https://nijisanji.ichikara.co.jp/member)
