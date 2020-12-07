@@ -4,6 +4,9 @@ on:
   schedule:
   - cron: 0 15 * * *
   push:
+    paths: 
+      - 'getinfo.sh'
+      - '.github/workflows/*'
 
 jobs:
   build:
