@@ -6,6 +6,7 @@
   - 3D実装済み: `3d`
   - 登録者数: `popular.csv`
   - 関係表: `result.csv`
+- JST 00:00に更新確認
 
 - ソース
   - [にじさんじ非公式Wiki](https://wikiwiki.jp/nijisanji/)
