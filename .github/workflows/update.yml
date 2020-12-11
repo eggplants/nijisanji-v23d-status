@@ -28,7 +28,7 @@ jobs:
         ./getinfo.sh
     - name: Diff
       run: |
-        diff result.csv prev_res.csv && exit 1
+        diff result.csv prev_res.csv && { echo No changed && exit 1;} || echo chigau
     - name: Commit
       run: |
         rm prev_res.csv
