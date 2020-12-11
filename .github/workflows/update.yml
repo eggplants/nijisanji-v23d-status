@@ -28,8 +28,7 @@ jobs:
         ./getinfo.sh
     - name: Diff
       run: |
-        diff result.csv prev_res.csv
-        cmp -s result.csv prev_res.csv && exit 1
+        diff result.csv prev_res.csv && exit 1
     - name: Commit
       run: |
         rm prev_res.csv
