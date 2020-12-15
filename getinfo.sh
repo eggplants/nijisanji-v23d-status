@@ -52,7 +52,7 @@ for i in $(<liver)
 do
   echo "${i},$(
     sed 1d popular.csv \
-      | awk -F, "/${i}/{print 0.5*(${rev_ind}-\$2) | \"bc\"}" \
+      | awk -F, "/${i}/{print 5*(${rev_ind}-\$2) | \"bc\"}" \
       | xargs printf %.1f
   ),$(
     grep -q "$i" 2dv2 && echo o || echo x
