@@ -2,11 +2,12 @@
 
 # 2.0
 curl -s 'https://wikiwiki.jp/nijisanji/衣装等まとめ' \
-  | tr -d \\n \
-  | grep -oP '>第1次.*?▲' \
-  | grep -oP '(?<=3">)[^<]+(?=<)' \
+  | grep -m1 '第1次' \
+  | grep -oP '(?<=>)[^<]+(?=<)' \
   | tr , \\n \
-  | tr -d ' ' \
+  | tr -d \  \
+  | egrep -v '[0-9]|^$' \
+  | sed 1,4d \
   > 2dv2
 
 # 3D
