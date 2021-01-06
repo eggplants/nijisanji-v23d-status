@@ -32,7 +32,8 @@ jobs:
         rm prev_res.csv
     - name: CSV to JSON
       run: |        
-        sed 1d result.csv | jq -Rsn '{"data":
+        sed 1d result.csv | jq -Rsn '
+        {"data":
           [inputs
             | ./"\n"
             | (.[] | select(length > 0) | ./",") as $i
