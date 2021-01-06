@@ -32,6 +32,15 @@ jobs:
     - name: Commit
       run: |
         rm prev_res.csv
+        sed 1d result.csv | jq -Rsn '{"data":
+          [inputs
+            | ./"\n"
+            | (.[] | select(length > 0) | ./",") as $i
+            | {
+              "name": $i[0],
+              "popularity": $i[1],
+              "2d": $i[2],
+              "3d": $i[3]}]}'
         git add .
         git commit -m "update: $(date +%y%m%d)"
         git push origin master
