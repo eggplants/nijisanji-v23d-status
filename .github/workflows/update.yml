@@ -29,9 +29,9 @@ jobs:
     - name: Diff
       run: |
         diff result.csv prev_res.csv && { echo No changed && exit 1;} || echo Some changed
-    - name: Commit
-      run: |
         rm prev_res.csv
+    - name: CSV to JSON
+      run: |        
         sed 1d result.csv | jq -Rsn '{"data":
           [inputs
             | ./"\n"
@@ -40,7 +40,10 @@ jobs:
               "name": $i[0],
               "popularity": $i[1],
               "2d": $i[2],
-              "3d": $i[3]}]}'
+              "3d": $i[3]}]}
+        ' > result.json
+    - name: Commit
+      run: |
         git add .
         git commit -m "update: $(date +%y%m%d)"
         git push origin master
