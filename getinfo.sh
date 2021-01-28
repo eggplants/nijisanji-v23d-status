@@ -31,7 +31,7 @@ curl -s 'https://nijisanji.ichikara.co.jp/member/' \
 echo name,popularity_rev > popular.csv
 curl -s 'https://wikiwiki.jp/nijisanji/メンバーデータ一覧' \
   | tr -d \\n \
-  | grep -oP '>デビュー日.*?="model">' \
+  | grep -oP '>デビュー日.*?adslot-h' \
   | sed 's/left;">/\n/g' \
   | while read -r i
     do
