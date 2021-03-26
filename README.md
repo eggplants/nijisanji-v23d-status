@@ -11,8 +11,8 @@
 ## ソース
 
 - [にじさんじ非公式Wiki](https://wikiwiki.jp/nijisanji)
-  - [衣装等まとめ](https://wikiwiki.jp/nijisanji/衣装等まとめ)
+  - [衣装等まとめ#にじさんじ2.0](https://wikiwiki.jp/nijisanji/衣装等まとめ#brushup)
   - [3Dモデルまとめ](https://wikiwiki.jp/nijisanji/3Dモデルまとめ)
-  - [メンバーデータ一覧](https://wikiwiki.jp/nijisanji/メンバーデータ一覧)
+  - [メンバーデータ一覧](https://wikiwiki.jp/nijisanji/メンバーデータ一覧%2Fチャンネル登録者数)
 - [にじさんじ 公式サイト](https://www.nijisanji.jp)
   - [メンバー一覧](https://www.nijisanji.jp/members)
