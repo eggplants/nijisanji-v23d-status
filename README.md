@@ -14,5 +14,5 @@
   - [衣装等まとめ](https://wikiwiki.jp/nijisanji/衣装等まとめ)
   - [3Dモデルまとめ](https://wikiwiki.jp/nijisanji/3Dモデルまとめ)
   - [メンバーデータ一覧](https://wikiwiki.jp/nijisanji/メンバーデータ一覧)
-- [にじさんじ 公式サイト](https://nijisanji.ichikara.co.jp)
-  - [メンバー一覧](https://nijisanji.ichikara.co.jp/member)
+- [にじさんじ 公式サイト](https://www.nijisanji.jp)
+  - [メンバー一覧](https://www.nijisanji.jp/members)

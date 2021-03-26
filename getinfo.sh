@@ -19,12 +19,8 @@ curl -s 'https://wikiwiki.jp/nijisanji/3Dモデルまとめ' \
   > 3d
 
 # liver
-curl -s 'https://nijisanji.ichikara.co.jp/member/' \
-  | tr -d \\n \
-  | grep -oP '新規デビュー順<.*>Virtu' \
-  | grep -oP '(?<=>)[^<]+(?=<)' \
-  | sed '/^ *$/d' \
-  | tr -d ' \t' \
+curl -s 'https://www.nijisanji.jp/members' \
+  | grep -oP '(?<=<span>)[^<]+'
   > liver
 
 # popular
