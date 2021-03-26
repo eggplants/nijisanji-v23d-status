@@ -20,7 +20,7 @@ curl -s 'https://wikiwiki.jp/nijisanji/3Dモデルまとめ' \
 
 # liver
 curl -s 'https://www.nijisanji.jp/members' \
-  | grep -oP '(?<=<span>)[^<]+'
+  | grep -oP '(?<=<span>)[^<]+' \
   > liver
 
 # popular
