@@ -25,31 +25,28 @@ curl -s 'https://www.nijisanji.jp/members' \
 
 # popular
 echo name,popularity_rev > popular.csv
-curl -s 'https://wikiwiki.jp/nijisanji/メンバーデータ一覧' \
+curl -s 'https://wikiwiki.jp/nijisanji/メンバーデータ一覧%2Fチャンネル登録者数' \
   | tr -d \\n \
   | grep -oP '>デビュー日.*?adslot-h' \
-  | sed 's/left;">/\n/g' \
+  | sed 's/left;">/\n/g' | sed 1d \
   | while read -r i
     do
       echo "$(
         grep -oP '^.*?(?=<)' <<< "$i"
       ) $(
-        grep -o '>-<' <<< "$i" | wc -l
+        grep -oP '>[0-9]+日<' <<< "$i" | wc -l
       )"
     done \
   | sed '1d;/1st/d;s/(2nd)//g;s/ /,/g' \
   >> popular.csv
 
 # res
-rev_ind="$(
-  sort -t , -rnk2 popular.csv | sed '1!d;s/.*,//'
-)"
 echo name,popularity,2d,3d > result.csv
 for i in $(<liver)
 do
   echo "${i},$(
     sed 1d popular.csv \
-      | awk -F, "/${i}/{print 5*(${rev_ind}-\$2) | \"bc\"}"
+      | awk -F, -v name="${i}" '$1 == name{print 5*$2|"bc"}'
   ),$(
     grep -q "$i" 2dv2 && echo o || echo x
   ),$(
