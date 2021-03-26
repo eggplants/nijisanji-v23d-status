@@ -7,7 +7,7 @@ curl -s 'https://wikiwiki.jp/nijisanji/衣装等まとめ' \
   | tr , \\n \
   | tr -d \  \
   | egrep -v '[0-9]|^$' \
-  | sed 1,4d \
+  | sed '1,4d;s/ギルザレンIII/ギルザレンⅢ/' \
   > 2dv2
 
 # 3D
@@ -15,7 +15,7 @@ curl -s 'https://wikiwiki.jp/nijisanji/3Dモデルまとめ' \
   | tr -d \\n \
   | grep -oP 'n">直.*?gpt' \
   | grep -oP '(?<=>)[^<]+(?=</a></li>)' \
-  | tr -d ' ' \
+  | sed 's/ //g;s/ギルザレンIII/ギルザレンⅢ/' \
   > 3d
 
 # liver
@@ -28,7 +28,7 @@ echo name,popularity_rev > popular.csv
 curl -s 'https://wikiwiki.jp/nijisanji/メンバーデータ一覧%2Fチャンネル登録者数' \
   | tr -d \\n \
   | grep -oP '>デビュー日.*?adslot-h' \
-  | sed 's/left;">/\n/g' | sed 1d \
+  | sed 's/left;">/\n/g' | sed '1d;s/ギルザレンIII/ギルザレンⅢ/' \
   | while read -r i
     do
       echo "$(
