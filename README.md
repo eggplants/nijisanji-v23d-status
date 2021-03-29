@@ -16,3 +16,7 @@
   - [メンバーデータ一覧](https://wikiwiki.jp/nijisanji/メンバーデータ一覧%2Fチャンネル登録者数)
 - [にじさんじ 公式サイト](https://www.nijisanji.jp)
   - [メンバー一覧](https://www.nijisanji.jp/members)
+
+## 問題
+
+Publicだとコミット芝グラフを汚す
