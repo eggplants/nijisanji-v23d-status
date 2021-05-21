@@ -20,7 +20,12 @@ curl -s 'https://wikiwiki.jp/nijisanji/3Dモデルまとめ' \
 
 # liver
 curl -s 'https://www.nijisanji.jp/members' \
-  | grep -oP '(?<=<span>)[^<]+' \
+  | grep -oP '(?<=type="application/json">){[^<]+}(?=<)' \
+  | jq -r '[
+      .props.pageProps.livers[]
+      |select(.affiliation|index("にじさんじ"))
+      |{n:.name,s:.subscribe_orders}
+    ]|sort_by(.s)[]|.n' \
   > liver
 
 # popular
