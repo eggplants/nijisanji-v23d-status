@@ -1,3 +1,622 @@
 {
-  "data": []
+  "data": [
+    {
+      "name": "葛葉",
+      "popularity": "80",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "月ノ美兎",
+      "popularity": "70",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "叶",
+      "popularity": "65",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "本間ひまわり",
+      "popularity": "60",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "笹木咲",
+      "popularity": "55",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "鈴原るる",
+      "popularity": "50",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "リゼ・ヘルエスタ",
+      "popularity": "50",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "星川サラ",
+      "popularity": "45",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "アルス・アルマル",
+      "popularity": "45",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "アンジュ・カトリーナ",
+      "popularity": "45",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "椎名唯華",
+      "popularity": "45",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "勇気ちひろ",
+      "popularity": "45",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "戌亥とこ",
+      "popularity": "45",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "緑仙",
+      "popularity": "45",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "鈴鹿詩子",
+      "popularity": "40",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "社築",
+      "popularity": "40",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "竜胆尊",
+      "popularity": "40",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "樋口楓",
+      "popularity": "40",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "黛灰",
+      "popularity": "35",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "でびでび・でびる",
+      "popularity": "35",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "加賀美ハヤト",
+      "popularity": "35",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "健屋花那",
+      "popularity": "35",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "鷹宮リオン",
+      "popularity": "35",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "剣持刀也",
+      "popularity": "35",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "シスター・クレア",
+      "popularity": "35",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "夢月ロア",
+      "popularity": "30",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "ベルモンド・バンデラス",
+      "popularity": "30",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "三枝明那",
+      "popularity": "30",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "静凛",
+      "popularity": "30",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "不破湊",
+      "popularity": "30",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "夜見れな",
+      "popularity": "30",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "町田ちま",
+      "popularity": "30",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "フレン・E・ルスタリオ",
+      "popularity": "30",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "ニュイ・ソシエール",
+      "popularity": "30",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "郡道美玲",
+      "popularity": "30",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "イブラヒム",
+      "popularity": "25",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "メリッサ・キンレンカ",
+      "popularity": "25",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "舞元啓介",
+      "popularity": "25",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "花畑チャイカ",
+      "popularity": "25",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "ラトナ・プティ",
+      "popularity": "25",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "ジョー・力一",
+      "popularity": "25",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "天宮こころ",
+      "popularity": "25",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "エクス・アルビオ",
+      "popularity": "25",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "文野環",
+      "popularity": "25",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "ドーラ",
+      "popularity": "25",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "葉加瀬冬雪",
+      "popularity": "25",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "白雪巴",
+      "popularity": "20",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "相羽ういは",
+      "popularity": "20",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "夢追翔",
+      "popularity": "20",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "物述有栖",
+      "popularity": "20",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "森中花咲",
+      "popularity": "20",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "ましろ",
+      "popularity": "20",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "西園チグサ",
+      "popularity": "20",
+      "2d": "x",
+      "3d": "x"
+    },
+    {
+      "name": "童田明治",
+      "popularity": "20",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "魔界ノりりむ",
+      "popularity": "20",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "甲斐田晴",
+      "popularity": "20",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "シェリン・バーガンディ",
+      "popularity": "20",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "える",
+      "popularity": "20",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "レヴィ・エリファ",
+      "popularity": "20",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "奈羅花",
+      "popularity": "15",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "桜凛月",
+      "popularity": "15",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "夕陽リリ",
+      "popularity": "15",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "長尾景",
+      "popularity": "15",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "えま★おうがすと",
+      "popularity": "15",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "グウェル・オス・ガール",
+      "popularity": "15",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "神田笑一",
+      "popularity": "15",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "卯月コウ",
+      "popularity": "15",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "弦月藤士郎",
+      "popularity": "15",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "早瀬走",
+      "popularity": "15",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "葉山舞鈴",
+      "popularity": "15",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "ルイス・キャミー",
+      "popularity": "15",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "北小路ヒスイ",
+      "popularity": "15",
+      "2d": "x",
+      "3d": "x"
+    },
+    {
+      "name": "魔使マオ",
+      "popularity": "15",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "家長むぎ",
+      "popularity": "15",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "愛園愛美",
+      "popularity": "10",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "鈴木勝",
+      "popularity": "15",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "フミ",
+      "popularity": "15",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "宇志海いちご",
+      "popularity": "15",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "黒井しば",
+      "popularity": "10",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "赤羽葉子",
+      "popularity": "10",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "エリー・コニファー",
+      "popularity": "10",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "雨森小夜",
+      "popularity": "10",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "伏見ガク",
+      "popularity": "10",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "モイラ",
+      "popularity": "10",
+      "2d": "o",
+      "3d": "o"
+    },
+    {
+      "name": "山神カルタ",
+      "popularity": "10",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "小野町春香",
+      "popularity": "10",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "渋谷ハジメ",
+      "popularity": "15",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "瀬戸美夜子",
+      "popularity": "10",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "雪城眞尋",
+      "popularity": "10",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "鈴谷アキ",
+      "popularity": "10",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "周央サンゴ",
+      "popularity": "10",
+      "2d": "x",
+      "3d": "x"
+    },
+    {
+      "name": "空星きらめ",
+      "popularity": "10",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "轟京子",
+      "popularity": "10",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "ギルザレンⅢ世",
+      "popularity": "10",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "来栖夏芽",
+      "popularity": "5",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "飛鳥ひな",
+      "popularity": "5",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "朝日南アカネ",
+      "popularity": "5",
+      "2d": "x",
+      "3d": "x"
+    },
+    {
+      "name": "安土桃",
+      "popularity": "5",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "成瀬鳴",
+      "popularity": "5",
+      "2d": "x",
+      "3d": "x"
+    },
+    {
+      "name": "東堂コハク",
+      "popularity": "5",
+      "2d": "x",
+      "3d": "x"
+    },
+    {
+      "name": "矢車りね",
+      "popularity": "5",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
+      "name": "春崎エアル",
+      "popularity": "5",
+      "2d": "x",
+      "3d": "x"
+    },
+    {
+      "name": "語部紡",
+      "popularity": "5",
+      "2d": "x",
+      "3d": "x"
+    }
+  ]
 }
