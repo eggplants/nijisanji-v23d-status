@@ -86,13 +86,13 @@
     },
     {
       "name": "鈴鹿詩子",
-      "popularity": "40",
+      "popularity": "45",
       "2d": "o",
       "3d": "o"
     },
     {
       "name": "社築",
-      "popularity": "40",
+      "popularity": "45",
       "2d": "o",
       "3d": "o"
     },
@@ -301,6 +301,12 @@
       "3d": "o"
     },
     {
+      "name": "ましろ",
+      "popularity": "20",
+      "2d": "o",
+      "3d": "x"
+    },
+    {
       "name": "物述有栖",
       "popularity": "20",
       "2d": "o",
@@ -308,12 +314,6 @@
     },
     {
       "name": "西園チグサ",
-      "popularity": "20",
-      "2d": "o",
-      "3d": "x"
-    },
-    {
-      "name": "ましろ",
       "popularity": "20",
       "2d": "o",
       "3d": "x"
