@@ -73,13 +73,13 @@
       "3d": "o"
     },
     {
-      "name": "緑仙",
+      "name": "社築",
       "popularity": "45",
       "2d": "o",
       "3d": "o"
     },
     {
-      "name": "社築",
+      "name": "緑仙",
       "popularity": "45",
       "2d": "o",
       "3d": "o"
@@ -169,13 +169,13 @@
       "3d": "o"
     },
     {
-      "name": "夜見れな",
+      "name": "町田ちま",
       "popularity": "30",
       "2d": "o",
       "3d": "o"
     },
     {
-      "name": "町田ちま",
+      "name": "夜見れな",
       "popularity": "30",
       "2d": "o",
       "3d": "o"
@@ -463,13 +463,13 @@
       "3d": "o"
     },
     {
-      "name": "伏見ガク",
+      "name": "黒井しば",
       "popularity": "15",
       "2d": "o",
       "3d": "x"
     },
     {
-      "name": "黒井しば",
+      "name": "伏見ガク",
       "popularity": "15",
       "2d": "o",
       "3d": "x"
@@ -482,7 +482,7 @@
     },
     {
       "name": "小野町春香",
-      "popularity": "10",
+      "popularity": "15",
       "2d": "o",
       "3d": "x"
     },
@@ -511,16 +511,16 @@
       "3d": "x"
     },
     {
-      "name": "モイラ",
-      "popularity": "10",
-      "2d": "o",
-      "3d": "o"
-    },
-    {
       "name": "瀬戸美夜子",
       "popularity": "10",
       "2d": "o",
       "3d": "x"
+    },
+    {
+      "name": "モイラ",
+      "popularity": "10",
+      "2d": "o",
+      "3d": "o"
     },
     {
       "name": "渋谷ハジメ",
@@ -614,31 +614,31 @@
     },
     {
       "name": "レオス・ヴィンセント",
-      "popularity": "0",
+      "popularity": "5",
       "2d": "x",
       "3d": "x"
     },
     {
       "name": "レイン・パターソン",
-      "popularity": "0",
+      "popularity": "5",
       "2d": "x",
       "3d": "x"
     },
     {
       "name": "オリバー・エバンス",
-      "popularity": "0",
+      "popularity": "5",
       "2d": "x",
       "3d": "x"
     },
     {
       "name": "ローレン・イロアス",
-      "popularity": "0",
+      "popularity": "5",
       "2d": "x",
       "3d": "x"
     },
     {
       "name": "アクシア・クローネ",
-      "popularity": "0",
+      "popularity": "5",
       "2d": "x",
       "3d": "x"
     }
