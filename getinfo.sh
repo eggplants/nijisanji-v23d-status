@@ -1,6 +1,14 @@
 #!/bin/bash
 
-curl
+command -v curl jq >/dev/null || {
+  echo "install :curl, jq">&2
+  exit 1
+}
+
+echo | grep -P "" |& grep -q "grep: invalid option" && {
+  echo "Required grep impl is GNU. BSD is useless.">&2
+  exit 1
+}
 
 # Live2D 2.0
 curl -s 'https://wikiwiki.jp/nijisanji/衣装等まとめ' \
