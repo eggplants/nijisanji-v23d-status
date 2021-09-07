@@ -1,4 +1,6 @@
-# これは何
+# nijisanji-v23d-status
+
+## これは何
 
 - にじさんじ 2.0&3Dの実装状況と登録者数関係表を作る
   - CSV: [result.csv](https://github.com/eggplants/nijisanji-v23d-status/blob/master/result.csv)
