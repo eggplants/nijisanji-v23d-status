@@ -1,5 +1,7 @@
 #!/bin/bash
 
+curl
+
 # Live2D 2.0
 curl -s 'https://wikiwiki.jp/nijisanji/衣装等まとめ' \
   | grep -m1 '第1次' \
@@ -71,3 +73,20 @@ do
   )"
 done \
 >> result.csv
+
+# result: csv->json
+sed 1d result.csv | jq -Rsn '
+  {"data":
+    [inputs
+      | ./"\n"
+      | (.[] | select(length > 0) | ./",") as $i
+      | {
+        "name": $i[0],
+        "popularity": $i[1],
+        "2dv2": $i[2],
+        "2dv3": $i[3],
+        "3d": $i[4]
+      }
+    ]
+  }' \
+  > result.json
