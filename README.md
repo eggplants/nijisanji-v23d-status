@@ -1,13 +1,18 @@
 # これは何
 
 - にじさんじ 2.0&3Dの実装状況と登録者数関係表を作る
-  - 各種情報収集: `getinfo.sh`
-  - 2.0実装済み: `2dv2`
-  - 3.0実装済み: `2dv3`
-  - 3D実装済み: `3d`
-  - 登録者数: `popular.csv`
-  - 関係表: `result.csv`
+  - CSV: [result.csv](https://github.com/eggplants/nijisanji-v23d-status/blob/master/result.csv)
+  - JSON: [result.json](https://github.com/eggplants/nijisanji-v23d-status/blob/master/result.json)
 - JST 00:00に更新確認
+
+## 各ファイル
+
+- 各種情報収集: `getinfo.sh`
+- 2.0実装済み: `2dv2`
+- 3.0実装済み: `2dv3`
+- 3D実装済み: `3d`
+- 登録者数: `popular.csv`
+- 関係表: `result.csv`
 
 ## ソース
 
