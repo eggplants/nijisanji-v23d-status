@@ -4,7 +4,7 @@ on:
   schedule:
   - cron: 0 15 * * *
   push:
-    paths: 
+    paths:
       - 'getinfo.sh'
       - '.github/workflows/*'
 
@@ -28,19 +28,6 @@ jobs:
       run: |
         diff result.csv prev_res.csv && { echo No changed && exit 1;} || echo Some changed
         rm prev_res.csv
-    - name: CSV to JSON
-      run: |        
-        sed 1d result.csv | jq -Rsn '
-        {"data":
-          [inputs
-            | ./"\n"
-            | (.[] | select(length > 0) | ./",") as $i
-            | {
-              "name": $i[0],
-              "popularity": $i[1],
-              "2d": $i[2],
-              "3d": $i[3]}]}
-        ' > result.json
     - name: Commit
       run: |
         git add .
