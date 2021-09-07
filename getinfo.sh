@@ -1,26 +1,36 @@
 #!/bin/bash
 
-# 2.0
+# Live2D 2.0
 curl -s 'https://wikiwiki.jp/nijisanji/衣装等まとめ' \
   | grep -m1 '第1次' \
-  | grep -oP '(?<=>)[^<]+(?=<)' \
-  | tr , \\n \
-  | tr -d \  \
-  | egrep -v '[0-9]|^$' \
-  | sed '1,4d;s/ギルザレンIII/ギルザレンⅢ/' \
+  | sed -nE 's/[^>]+>([^<]+)</\1'$'\\n/gp' \
+  | sed 's_^/td><td>_,'$'\\n_' \
+  | grep -A1 "^," \
+  | sed -E "/,|--/d" \
+  | sed 's/ギルザレンIII/ギルザレンⅢ/' \
   > 2dv2
+
+# Live2D 3.0
+curl -s 'https://wikiwiki.jp/nijisanji/衣装等まとめ' \
+  | grep -m2 '第1次' \
+  | sed 1d \
+  | sed -nE 's/[^>]+>([^<]+)</\1'$'\\n/gp' \
+  | sed 's_^/td><td>_,'$'\\n_' \
+  | grep -A1 "^," \
+  | sed -E "/,|--/d" \
+  | sed 's/ギルザレンIII/ギルザレンⅢ/' \
+  > 2dv3
 
 # 3D
 curl -s 'https://wikiwiki.jp/nijisanji/3Dモデルまとめ' \
-  | tr -d \\n \
-  | grep -oP 'n">直.*?gpt' \
-  | grep -oP '(?<=>)[^<]+(?=</a></li>)' \
+  | sed -n '/<a href="#recent_presentation">/,/<a href="#videos_3d">/p' \
+  | sed -nE '/<li><a href="#[A-Z]/s/^.*>([^<]+)<.*$/\1/p' \
   | sed 's/ //g;s/ギルザレンIII/ギルザレンⅢ/' \
   > 3d
 
-# liver
+# Liver
 curl -s 'https://www.nijisanji.jp/members' \
-  | grep -oP '(?<=type="application/json">){[^<]+}(?=<)' \
+  | sed -nE 's_.*type="application/json">([^<]+)<.*_\1_p' \
   | jq -r '[
       .props.pageProps.livers[]
       |select(.affiliation|index("にじさんじ"))
@@ -28,7 +38,7 @@ curl -s 'https://www.nijisanji.jp/members' \
     ]|sort_by(.s)[]|.n' \
   > liver
 
-# popular
+# Popularity by YouTube Subs
 echo name,popularity_rev > popular.csv
 curl -s 'https://wikiwiki.jp/nijisanji/メンバーデータ一覧%2Fチャンネル登録者数' \
   | tr -d \\n \
@@ -45,8 +55,8 @@ curl -s 'https://wikiwiki.jp/nijisanji/メンバーデータ一覧%2Fチャン�
   | sed '1d;/1st/d;s/(2nd)//g;s/ /,/g' \
   >> popular.csv
 
-# res
-echo name,popularity,2d,3d > result.csv
+# Synth data and output
+echo name,popularity,2dv2,2dv3,3d > result.csv
 for i in $(<liver)
 do
   echo "${i},$(
@@ -54,6 +64,8 @@ do
       | awk -F, -v name="${i}" '$1 == name{print 5*$2|"bc"}'
   ),$(
     grep -q "$i" 2dv2 && echo o || echo x
+  ),$(
+    grep -q "$i" 2dv3 && echo o || echo x
   ),$(
     grep -q "$i" 3d && echo o || echo x
   )"
