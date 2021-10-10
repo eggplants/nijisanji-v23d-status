@@ -9,7 +9,7 @@
     },
     {
       "name": "叶",
-      "popularity": "80",
+      "popularity": "85",
       "2dv2": "o",
       "2dv3": "x",
       "3d": "o"
@@ -177,7 +177,7 @@
     },
     {
       "name": "イブラヒム",
-      "popularity": "35",
+      "popularity": "40",
       "2dv2": "o",
       "2dv3": "x",
       "3d": "o"
@@ -330,17 +330,17 @@
       "3d": "o"
     },
     {
-      "name": "ドーラ",
-      "popularity": "25",
-      "2dv2": "o",
-      "2dv3": "o",
-      "3d": "o"
-    },
-    {
       "name": "相羽ういは",
       "popularity": "25",
       "2dv2": "o",
       "2dv3": "x",
+      "3d": "o"
+    },
+    {
+      "name": "ドーラ",
+      "popularity": "25",
+      "2dv2": "o",
+      "2dv3": "o",
       "3d": "o"
     },
     {
