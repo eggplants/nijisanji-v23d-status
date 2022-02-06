@@ -149,17 +149,10 @@
     },
     {
       "name": "でびでび・でびる",
-      "popularity": "5",
-      "2dv2": null,
-      "2dv3": null,
-      "3d": null
-    },
-    {
-      "name": "50",
-      "popularity": "o",
+      "popularity": "50",
       "2dv2": "o",
       "2dv3": "o",
-      "3d": null
+      "3d": "o"
     },
     {
       "name": "町田ちま",
@@ -485,17 +478,10 @@
     },
     {
       "name": "鈴木勝",
-      "popularity": "0",
-      "2dv2": null,
-      "2dv3": null,
-      "3d": null
-    },
-    {
-      "name": "20",
-      "popularity": "o",
+      "popularity": "20",
       "2dv2": "o",
       "2dv3": "o",
-      "3d": null
+      "3d": "o"
     },
     {
       "name": "葉山舞鈴",
@@ -695,17 +681,10 @@
     },
     {
       "name": "鈴谷アキ",
-      "popularity": "5",
-      "2dv2": null,
-      "2dv3": null,
-      "3d": null
-    },
-    {
-      "name": "10",
-      "popularity": "o",
-      "2dv2": "x",
-      "2dv3": "o",
-      "3d": null
+      "popularity": "10",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "o"
     },
     {
       "name": "轟京子",
