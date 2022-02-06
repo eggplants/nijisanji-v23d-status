@@ -53,7 +53,9 @@ echo name,popularity_rev > popular.csv
 curl -s 'https://wikiwiki.jp/nijisanji/メンバーデータ一覧%2Fチャンネル登録者数' \
   | tr -d \\n \
   | grep -oP '>デビュー日.*?adslot-h' \
-  | sed 's/left;">/\n/g' | sed '1d;s/ギルザレンIII/ギルザレンⅢ/' \
+  | sed 's/left;">/\n/g' \
+  | sed '1d;s/ギルザレンIII/ギルザレンⅢ/' \
+  | sed 's/^.*rel-wiki-page">//' \
   | while read -r i
     do
       echo "$(
