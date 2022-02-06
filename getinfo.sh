@@ -54,7 +54,7 @@ curl -s 'https://wikiwiki.jp/nijisanji/メンバーデータ一覧%2Fチャン�
   | tr -d \\n \
   | grep -oP '>デビュー日.*?adslot-h' \
   | sed 's/left;">/\n/g' \
-  | sed '1d;s/ギルザレンIII/ギルザレンⅢ/' \
+  | sed '1d' \
   | sed 's/^.*rel-wiki-page">//' \
   | sed '/>(1st)<\/th>/d' \
   | while read -r i
@@ -65,7 +65,7 @@ curl -s 'https://wikiwiki.jp/nijisanji/メンバーデータ一覧%2Fチャン�
         grep -oP '>[0-9]+日<' <<< "$i" | wc -l
       )"
     done \
-  | sed 's/ /,/g' \
+  | sed 's/ /,/g;s/ギルザレンIII/ギルザレンⅢ/' \
   >> popular.csv
 
 # Synth data and output
