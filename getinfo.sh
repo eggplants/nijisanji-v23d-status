@@ -56,6 +56,7 @@ curl -s 'https://wikiwiki.jp/nijisanji/メンバーデータ一覧%2Fチャン�
   | sed 's/left;">/\n/g' \
   | sed '1d;s/ギルザレンIII/ギルザレンⅢ/' \
   | sed 's/^.*rel-wiki-page">//' \
+  | sed '/>(1st)<\/th>/d' \
   | while read -r i
     do
       echo "$(
@@ -64,7 +65,7 @@ curl -s 'https://wikiwiki.jp/nijisanji/メンバーデータ一覧%2Fチャン�
         grep -oP '>[0-9]+日<' <<< "$i" | wc -l
       )"
     done \
-  | sed '1d;/1st/d;s/(2nd)//g;s/ /,/g' \
+  | sed 's/ /,/g' \
   >> popular.csv
 
 # Synth data and output
