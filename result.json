@@ -386,18 +386,18 @@
       "3d": "x"
     },
     {
-      "name": "レイン・パターソン",
-      "popularity": "25",
-      "2dv2": "o",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
       "name": "夢追翔",
       "popularity": "25",
       "2dv2": "o",
       "2dv3": "x",
       "3d": "o"
+    },
+    {
+      "name": "レイン・パターソン",
+      "popularity": "25",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "x"
     },
     {
       "name": "森中花咲",
@@ -513,7 +513,7 @@
     },
     {
       "name": "伏見ガク",
-      "popularity": "15",
+      "popularity": "20",
       "2dv2": "o",
       "2dv3": "x",
       "3d": "o"
@@ -751,21 +751,21 @@
     },
     {
       "name": "先斗寧",
-      "popularity": "0",
+      "popularity": "5",
       "2dv2": "x",
       "2dv3": "x",
       "3d": "x"
     },
     {
       "name": "海妹四葉",
-      "popularity": "0",
+      "popularity": "5",
       "2dv2": "x",
       "2dv3": "x",
       "3d": "x"
     },
     {
       "name": "天ヶ瀬むゆ",
-      "popularity": "0",
+      "popularity": "5",
       "2dv2": "x",
       "2dv3": "x",
       "3d": "x"
