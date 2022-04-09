@@ -23,7 +23,7 @@
     },
     {
       "name": "星川サラ",
-      "popularity": "65",
+      "popularity": "75",
       "2dv2": "o",
       "2dv3": "o",
       "3d": "o"
@@ -43,15 +43,15 @@
       "3d": "o"
     },
     {
-      "name": "リゼ・ヘルエスタ",
-      "popularity": "60",
+      "name": "アンジュ・カトリーナ",
+      "popularity": "50",
       "2dv2": "o",
       "2dv3": "x",
       "3d": "o"
     },
     {
-      "name": "アンジュ・カトリーナ",
-      "popularity": "50",
+      "name": "リゼ・ヘルエスタ",
+      "popularity": "60",
       "2dv2": "o",
       "2dv3": "x",
       "3d": "o"
@@ -302,14 +302,14 @@
       "3d": "o"
     },
     {
-      "name": "静凛",
+      "name": "西園チグサ",
       "popularity": "30",
       "2dv2": "o",
       "2dv3": "o",
       "3d": "o"
     },
     {
-      "name": "西園チグサ",
+      "name": "静凛",
       "popularity": "30",
       "2dv2": "o",
       "2dv3": "o",
@@ -541,7 +541,7 @@
     },
     {
       "name": "卯月コウ",
-      "popularity": "15",
+      "popularity": "20",
       "2dv2": "o",
       "2dv3": "x",
       "3d": "o"
@@ -673,14 +673,14 @@
       "3d": "o"
     },
     {
-      "name": "モイラ",
+      "name": "鈴谷アキ",
       "popularity": "10",
       "2dv2": "o",
       "2dv3": "x",
       "3d": "o"
     },
     {
-      "name": "鈴谷アキ",
+      "name": "モイラ",
       "popularity": "10",
       "2dv2": "o",
       "2dv3": "x",
