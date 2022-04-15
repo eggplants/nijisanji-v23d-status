@@ -281,14 +281,14 @@
       "3d": "o"
     },
     {
-      "name": "白雪巴",
+      "name": "葉加瀬冬雪",
       "popularity": "35",
       "2dv2": "o",
       "2dv3": "o",
       "3d": "o"
     },
     {
-      "name": "葉加瀬冬雪",
+      "name": "白雪巴",
       "popularity": "35",
       "2dv2": "o",
       "2dv3": "o",
@@ -358,6 +358,13 @@
       "3d": "o"
     },
     {
+      "name": "周央サンゴ",
+      "popularity": "30",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
       "name": "魔界ノりりむ",
       "popularity": "30",
       "2dv2": "o",
@@ -370,13 +377,6 @@
       "2dv2": "o",
       "2dv3": "o",
       "3d": "o"
-    },
-    {
-      "name": "周央サンゴ",
-      "popularity": "30",
-      "2dv2": "o",
-      "2dv3": "x",
-      "3d": "x"
     },
     {
       "name": "レイン・パターソン",
@@ -405,6 +405,20 @@
       "2dv2": "o",
       "2dv3": "x",
       "3d": "o"
+    },
+    {
+      "name": "Hana",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Macchia",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
     },
     {
       "name": "森中花咲",
@@ -660,7 +674,7 @@
     },
     {
       "name": "瀬戸美夜子",
-      "popularity": "10",
+      "popularity": "15",
       "2dv2": "o",
       "2dv3": "x",
       "3d": "x"
@@ -694,6 +708,20 @@
       "3d": "x"
     },
     {
+      "name": "Mika",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Melatika",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
       "name": "轟京子",
       "popularity": "10",
       "2dv2": "o",
@@ -712,6 +740,20 @@
       "popularity": "10",
       "2dv2": "o",
       "2dv3": "o",
+      "3d": "x"
+    },
+    {
+      "name": "Siska",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Leontyne",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
       "3d": "x"
     },
     {
@@ -736,6 +778,20 @@
       "3d": "x"
     },
     {
+      "name": "Taka",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Radjiman",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
       "name": "先斗寧",
       "popularity": "10",
       "2dv2": "x",
@@ -744,7 +800,21 @@
     },
     {
       "name": "海妹四葉",
-      "popularity": "5",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "ZEA",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Cornelia",
+      "popularity": "",
       "2dv2": "x",
       "2dv3": "x",
       "3d": "x"
@@ -757,8 +827,50 @@
       "3d": "x"
     },
     {
+      "name": "Miyu",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Ottavia",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "이로하",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Amicia",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Michella",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
       "name": "語部紡",
       "popularity": "5",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "양나리",
+      "popularity": "",
       "2dv2": "x",
       "2dv3": "x",
       "3d": "x"
@@ -767,6 +879,272 @@
       "name": "矢車りね",
       "popularity": "5",
       "2dv2": "o",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Bonnivier",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Pranaja",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "민수하",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "소나기",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Layla",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Alstroemeria",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "반하다",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "セフィナ",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Riksa",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Dhirendra",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "한치호",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Nara",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Haramaung",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Azura",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Cecillia",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Etna",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Crimson",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "아키라",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "레이",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Rai",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Galilei",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Reza",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Avanluna",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "오지유",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "하윤",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Xia",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Ekavira",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Derem",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Kado",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Nagisa",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Arcinia",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "가온",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Hyona",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Elatiora",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "채아라",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "류하리",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "나세라",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "송미아",
+      "popularity": "",
+      "2dv2": "x",
       "2dv3": "x",
       "3d": "x"
     }
