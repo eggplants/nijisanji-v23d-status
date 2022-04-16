@@ -16,7 +16,7 @@
     },
     {
       "name": "月ノ美兎",
-      "popularity": "80",
+      "popularity": "85",
       "2dv2": "o",
       "2dv3": "o",
       "3d": "o"
@@ -246,14 +246,14 @@
       "3d": "x"
     },
     {
-      "name": "ジョー・力一",
+      "name": "ラトナ・プティ",
       "popularity": "35",
       "2dv2": "o",
       "2dv3": "x",
       "3d": "o"
     },
     {
-      "name": "ラトナ・プティ",
+      "name": "ジョー・力一",
       "popularity": "35",
       "2dv2": "o",
       "2dv3": "x",
@@ -457,7 +457,7 @@
     },
     {
       "name": "長尾景",
-      "popularity": "20",
+      "popularity": "25",
       "2dv2": "o",
       "2dv3": "o",
       "3d": "o"
@@ -562,7 +562,7 @@
     },
     {
       "name": "フミ",
-      "popularity": "15",
+      "popularity": "20",
       "2dv2": "o",
       "2dv3": "o",
       "3d": "o"
@@ -666,15 +666,15 @@
       "3d": "o"
     },
     {
-      "name": "空星きらめ",
-      "popularity": "10",
+      "name": "瀬戸美夜子",
+      "popularity": "15",
       "2dv2": "o",
       "2dv3": "x",
       "3d": "x"
     },
     {
-      "name": "瀬戸美夜子",
-      "popularity": "15",
+      "name": "空星きらめ",
+      "popularity": "10",
       "2dv2": "o",
       "2dv3": "x",
       "3d": "x"
@@ -800,7 +800,7 @@
     },
     {
       "name": "海妹四葉",
-      "popularity": "",
+      "popularity": "5",
       "2dv2": "x",
       "2dv3": "x",
       "3d": "x"
