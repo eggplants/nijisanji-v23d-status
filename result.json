@@ -701,13 +701,6 @@
       "3d": "o"
     },
     {
-      "name": "ギルザレンⅢ世",
-      "popularity": "10",
-      "2dv2": "o",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
       "name": "Mika",
       "popularity": "",
       "2dv2": "x",
@@ -718,6 +711,13 @@
       "name": "Melatika",
       "popularity": "",
       "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "ギルザレンⅢ世",
+      "popularity": "10",
+      "2dv2": "o",
       "2dv3": "x",
       "3d": "x"
     },
@@ -988,20 +988,6 @@
       "3d": "x"
     },
     {
-      "name": "Etna",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "Crimson",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
       "name": "아키라",
       "popularity": "",
       "2dv2": "x",
@@ -1010,6 +996,20 @@
     },
     {
       "name": "레이",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Etna",
+      "popularity": "",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Crimson",
       "popularity": "",
       "2dv2": "x",
       "2dv3": "x",
