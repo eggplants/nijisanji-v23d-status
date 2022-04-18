@@ -46,6 +46,7 @@ curl -s 'https://www.nijisanji.jp/members' \
       |select(.affiliation|index("にじさんじ"))
       |{n:.name,s:.subscribe_orders}
     ]|sort_by(.s)[]|.n' \
+  | grep -v '[가-힣]|[a-z]' \
   > liver
 
 # Popularity by YouTube Subs
