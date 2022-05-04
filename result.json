@@ -407,20 +407,6 @@
       "3d": "o"
     },
     {
-      "name": "ハナ",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "マキア",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
       "name": "レヴィ・エリファ",
       "popularity": "25",
       "2dv2": "o",
@@ -673,20 +659,6 @@
       "3d": "x"
     },
     {
-      "name": "ミカ",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "メラティカ",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
       "name": "渋谷ハジメ",
       "popularity": "10",
       "2dv2": "o",
@@ -736,20 +708,6 @@
       "3d": "x"
     },
     {
-      "name": "シスカ",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "レオンタイン",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
       "name": "東堂コハク",
       "popularity": "10",
       "2dv2": "o",
@@ -759,20 +717,6 @@
     {
       "name": "先斗寧",
       "popularity": "10",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "タカ",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "ラジマン",
-      "popularity": "",
       "2dv2": "x",
       "2dv3": "x",
       "3d": "x"
@@ -799,50 +743,8 @@
       "3d": "x"
     },
     {
-      "name": "ゼア",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "コルネリア",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
       "name": "天ヶ瀬むゆ",
       "popularity": "5",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "ミユ",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "オッタフィア",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "アミシア",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "ミシェラ",
-      "popularity": "",
       "2dv2": "x",
       "2dv3": "x",
       "3d": "x"
@@ -855,177 +757,9 @@
       "3d": "x"
     },
     {
-      "name": "ボンニフィエール",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "プラナジャ",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
       "name": "矢車りね",
       "popularity": "5",
       "2dv2": "o",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "ライラ",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "アルストロエメリア",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "ナラ",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "ハラマウン",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "リクサ",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "ディレンドラ",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "エトナ",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "クリムソン",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "アズラ",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "セシリア",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "ライ",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "ガリレイ",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "レザ",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "アファンルナ",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "デレム",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "カド",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "シア",
-      "popularity": "",
-      "2dv2": "o",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "エカフィラ",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "ナギサ",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "アルシニア",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "ヒョナ",
-      "popularity": "",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "エラティオラ",
-      "popularity": "",
-      "2dv2": "x",
       "2dv3": "x",
       "3d": "x"
     }
