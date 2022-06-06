@@ -2,7 +2,7 @@
   "data": [
     {
       "name": "葛葉",
-      "popularity": "125",
+      "popularity": "130",
       "2dv2": "o",
       "2dv3": "o",
       "3d": "o"
@@ -16,7 +16,7 @@
     },
     {
       "name": "壱百満天原サロメ",
-      "popularity": "90",
+      "popularity": "95",
       "2dv2": "x",
       "2dv3": "x",
       "3d": "x"
@@ -330,18 +330,18 @@
       "3d": "o"
     },
     {
-      "name": "奈羅花",
-      "popularity": "25",
-      "2dv2": "o",
-      "2dv3": "x",
-      "3d": "o"
-    },
-    {
       "name": "周央サンゴ",
       "popularity": "30",
       "2dv2": "o",
       "2dv3": "x",
       "3d": "x"
+    },
+    {
+      "name": "奈羅花",
+      "popularity": "25",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "o"
     },
     {
       "name": "相羽ういは",
@@ -701,14 +701,14 @@
       "3d": "o"
     },
     {
-      "name": "成瀬鳴",
+      "name": "安土桃",
       "popularity": "10",
       "2dv2": "o",
       "2dv3": "o",
       "3d": "x"
     },
     {
-      "name": "安土桃",
+      "name": "成瀬鳴",
       "popularity": "10",
       "2dv2": "o",
       "2dv3": "o",
