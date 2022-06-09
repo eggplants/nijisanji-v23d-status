@@ -9,7 +9,7 @@
     },
     {
       "name": "壱百満天原サロメ",
-      "popularity": "110",
+      "popularity": "115",
       "2dv2": "x",
       "2dv3": "x",
       "3d": "x"
@@ -100,7 +100,7 @@
     },
     {
       "name": "椎名唯華",
-      "popularity": "50",
+      "popularity": "55",
       "2dv2": "o",
       "2dv3": "o",
       "3d": "o"
@@ -198,7 +198,7 @@
     },
     {
       "name": "甲斐田晴",
-      "popularity": "40",
+      "popularity": "45",
       "2dv2": "o",
       "2dv3": "o",
       "3d": "o"
@@ -260,13 +260,6 @@
       "3d": "x"
     },
     {
-      "name": "ニュイ・ソシエール",
-      "popularity": "35",
-      "2dv2": "o",
-      "2dv3": "o",
-      "3d": "o"
-    },
-    {
       "name": "ジョー・力一",
       "popularity": "35",
       "2dv2": "o",
@@ -274,8 +267,15 @@
       "3d": "o"
     },
     {
+      "name": "ニュイ・ソシエール",
+      "popularity": "35",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
       "name": "花畑チャイカ",
-      "popularity": "30",
+      "popularity": "35",
       "2dv2": "o",
       "2dv3": "o",
       "3d": "o"
@@ -324,7 +324,7 @@
     },
     {
       "name": "静凛",
-      "popularity": "30",
+      "popularity": "35",
       "2dv2": "o",
       "2dv3": "o",
       "3d": "o"
@@ -338,7 +338,7 @@
     },
     {
       "name": "奈羅花",
-      "popularity": "25",
+      "popularity": "30",
       "2dv2": "o",
       "2dv3": "x",
       "3d": "o"
@@ -477,17 +477,17 @@
       "3d": "x"
     },
     {
-      "name": "夕陽リリ",
-      "popularity": "20",
-      "2dv2": "o",
-      "2dv3": "x",
-      "3d": "o"
-    },
-    {
       "name": "鈴木勝",
       "popularity": "20",
       "2dv2": "o",
       "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "夕陽リリ",
+      "popularity": "20",
+      "2dv2": "o",
+      "2dv3": "x",
       "3d": "o"
     },
     {
@@ -527,7 +527,7 @@
     },
     {
       "name": "早瀬走",
-      "popularity": "15",
+      "popularity": "20",
       "2dv2": "o",
       "2dv3": "o",
       "3d": "o"
@@ -632,7 +632,7 @@
     },
     {
       "name": "雪城眞尋",
-      "popularity": "10",
+      "popularity": "15",
       "2dv2": "o",
       "2dv3": "o",
       "3d": "o"
@@ -750,14 +750,14 @@
       "3d": "x"
     },
     {
-      "name": "語部紡",
+      "name": "セフィナ",
       "popularity": "5",
       "2dv2": "x",
       "2dv3": "x",
       "3d": "x"
     },
     {
-      "name": "セフィナ",
+      "name": "語部紡",
       "popularity": "5",
       "2dv2": "x",
       "2dv3": "x",
