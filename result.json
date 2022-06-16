@@ -303,7 +303,7 @@
     },
     {
       "name": "西園チグサ",
-      "popularity": "30",
+      "popularity": "35",
       "2dv2": "o",
       "2dv3": "o",
       "3d": "o"
@@ -338,7 +338,7 @@
     },
     {
       "name": "奈羅花",
-      "popularity": "30",
+      "popularity": "35",
       "2dv2": "o",
       "2dv3": "x",
       "3d": "o"
@@ -380,7 +380,7 @@
     },
     {
       "name": "ローレン・イロアス",
-      "popularity": "25",
+      "popularity": "30",
       "2dv2": "o",
       "2dv3": "x",
       "3d": "x"
@@ -687,18 +687,18 @@
       "3d": "x"
     },
     {
-      "name": "轟京子",
-      "popularity": "10",
-      "2dv2": "o",
-      "2dv3": "o",
-      "3d": "o"
-    },
-    {
       "name": "安土桃",
       "popularity": "10",
       "2dv2": "o",
       "2dv3": "o",
       "3d": "x"
+    },
+    {
+      "name": "轟京子",
+      "popularity": "10",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
     },
     {
       "name": "先斗寧",
