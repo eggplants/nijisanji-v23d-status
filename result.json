@@ -1,3 +1,1579 @@
 {
-  "data": []
+  "data": [
+    {
+      "name": "壱百満天原サロメ",
+      "popularity": "170",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "葛葉",
+      "popularity": "145",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "叶",
+      "popularity": "110",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "月ノ美兎",
+      "popularity": "100",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "星川サラ",
+      "popularity": "85",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "剣持刀也",
+      "popularity": "85",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "笹木咲",
+      "popularity": "80",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "不破湊",
+      "popularity": "75",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "アンジュ・カトリーナ",
+      "popularity": "75",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "o"
+    },
+    {
+      "name": "社築",
+      "popularity": "70",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "o"
+    },
+    {
+      "name": "本間ひまわり",
+      "popularity": "70",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "戌亥とこ",
+      "popularity": "70",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "o"
+    },
+    {
+      "name": "リゼ・ヘルエスタ",
+      "popularity": "70",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "アルス・アルマル",
+      "popularity": "70",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "椎名唯華",
+      "popularity": "65",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "緑仙",
+      "popularity": "60",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "樋口楓",
+      "popularity": "60",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "勇気ちひろ",
+      "popularity": "60",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "加賀美ハヤト",
+      "popularity": "60",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "鈴鹿詩子",
+      "popularity": "55",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "町田ちま",
+      "popularity": "55",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "甲斐田晴",
+      "popularity": "55",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "天宮こころ",
+      "popularity": "55",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "三枝明那",
+      "popularity": "55",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "o"
+    },
+    {
+      "name": "イブラヒム",
+      "popularity": "55",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "o"
+    },
+    {
+      "name": "竜胆尊",
+      "popularity": "50",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "o"
+    },
+    {
+      "name": "健屋花那",
+      "popularity": "50",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "ラトナ・プティ",
+      "popularity": "50",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "フレン・E・ルスタリオ",
+      "popularity": "50",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "でびでび・でびる",
+      "popularity": "50",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "鷹宮リオン",
+      "popularity": "45",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "郡道美玲",
+      "popularity": "45",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "西園チグサ",
+      "popularity": "45",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "ジョー・力一",
+      "popularity": "45",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "シスター・クレア",
+      "popularity": "45",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "グウェル・オス・ガール",
+      "popularity": "45",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "花畑チャイカ",
+      "popularity": "40",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "舞元啓介",
+      "popularity": "40",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "o"
+    },
+    {
+      "name": "奈羅花",
+      "popularity": "40",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "夜見れな",
+      "popularity": "40",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "周央サンゴ",
+      "popularity": "40",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "o"
+    },
+    {
+      "name": "ローレン・イロアス",
+      "popularity": "40",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "ベルモンド・バンデラス",
+      "popularity": "40",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "ニュイ・ソシエール",
+      "popularity": "40",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "える",
+      "popularity": "40",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "魔界ノりりむ",
+      "popularity": "35",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "o"
+    },
+    {
+      "name": "静凛",
+      "popularity": "35",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "長尾景",
+      "popularity": "35",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "葉加瀬冬雪",
+      "popularity": "35",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "相羽ういは",
+      "popularity": "35",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "o"
+    },
+    {
+      "name": "白雪巴",
+      "popularity": "35",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "夢月ロア",
+      "popularity": "35",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "o"
+    },
+    {
+      "name": "レオス・ヴィンセント",
+      "popularity": "35",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "葉山舞鈴",
+      "popularity": "30",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "文野環",
+      "popularity": "30",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "o"
+    },
+    {
+      "name": "弦月藤士郎",
+      "popularity": "30",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "夢追翔",
+      "popularity": "30",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "レヴィ・エリファ",
+      "popularity": "30",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "レイン・パターソン",
+      "popularity": "30",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "ドーラ",
+      "popularity": "30",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "シェリン・バーガンディ",
+      "popularity": "30",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "エクス・アルビオ",
+      "popularity": "30",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "o"
+    },
+    {
+      "name": "Mika Melatika",
+      "popularity": "30",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "魔使マオ",
+      "popularity": "25",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "鈴木勝",
+      "popularity": "25",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "物述有栖",
+      "popularity": "25",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "渡会雲雀",
+      "popularity": "25",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "森中花咲",
+      "popularity": "25",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "o"
+    },
+    {
+      "name": "夕陽リリ",
+      "popularity": "25",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "o"
+    },
+    {
+      "name": "卯月コウ",
+      "popularity": "25",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "o"
+    },
+    {
+      "name": "北小路ヒスイ",
+      "popularity": "25",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "伏見ガク",
+      "popularity": "25",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "o"
+    },
+    {
+      "name": "ましろ",
+      "popularity": "25",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "o"
+    },
+    {
+      "name": "オリバー・エバンス",
+      "popularity": "25",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "o"
+    },
+    {
+      "name": "Hana Macchia",
+      "popularity": "25",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "黒井しば",
+      "popularity": "20",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "神田笑一",
+      "popularity": "20",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "桜凛月",
+      "popularity": "20",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "来栖夏芽",
+      "popularity": "20",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "朝日南アカネ",
+      "popularity": "20",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "早瀬走",
+      "popularity": "20",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "山神カルタ",
+      "popularity": "20",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "小野町春香",
+      "popularity": "20",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "四季凪アキラ",
+      "popularity": "20",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "ルイス・キャミー",
+      "popularity": "20",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "フミ",
+      "popularity": "20",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "えま★おうがすと",
+      "popularity": "20",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "雪城眞尋",
+      "popularity": "15",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "雨森小夜",
+      "popularity": "15",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "o"
+    },
+    {
+      "name": "鈴谷アキ",
+      "popularity": "15",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "赤羽葉子",
+      "popularity": "15",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "空星きらめ",
+      "popularity": "15",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "瀬戸美夜子",
+      "popularity": "15",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "x"
+    },
+    {
+      "name": "渋谷ハジメ",
+      "popularity": "15",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "海妹四葉",
+      "popularity": "15",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "愛園愛美",
+      "popularity": "15",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "家長むぎ",
+      "popularity": "15",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "o"
+    },
+    {
+      "name": "宇志海いちご",
+      "popularity": "15",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "o"
+    },
+    {
+      "name": "先斗寧",
+      "popularity": "15",
+      "2dv2": "x",
+      "2dv3": "o",
+      "3d": "x"
+    },
+    {
+      "name": "ヤン・ナリ",
+      "popularity": "15",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "ミン・スゥーハ",
+      "popularity": "15",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "セラフ・ダズルガーデン",
+      "popularity": "15",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "セフィナ",
+      "popularity": "15",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "エリー・コニファー",
+      "popularity": "15",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "o"
+    },
+    {
+      "name": "飛鳥ひな",
+      "popularity": "10",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "風楽奏斗",
+      "popularity": "10",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "轟京子",
+      "popularity": "10",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "東堂コハク",
+      "popularity": "10",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "o"
+    },
+    {
+      "name": "春崎エアル",
+      "popularity": "10",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "成瀬鳴",
+      "popularity": "10",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "小清水透",
+      "popularity": "10",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "安土桃",
+      "popularity": "10",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "x"
+    },
+    {
+      "name": "天ヶ瀬むゆ",
+      "popularity": "10",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "モイラ",
+      "popularity": "10",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "ソフィア・ヴァレンタイン",
+      "popularity": "10",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "ZEA Cornelia",
+      "popularity": "10",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Taka Radjiman",
+      "popularity": "10",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Siska Leontyne",
+      "popularity": "10",
+      "2dv2": "x",
+      "2dv3": "o",
+      "3d": "x"
+    },
+    {
+      "name": "Bonnivier Pranaja",
+      "popularity": "10",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "鏑木ろこ",
+      "popularity": "5",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "語部紡",
+      "popularity": "5",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "石神のぞみ",
+      "popularity": "5",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "矢車りね",
+      "popularity": "5",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "獅子堂あかり",
+      "popularity": "5",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "明楽レイ",
+      "popularity": "5",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "五十嵐梨花",
+      "popularity": "5",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "バン・ハダ",
+      "popularity": "5",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "ハ・ユン",
+      "popularity": "5",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "ソ・ナギ",
+      "popularity": "5",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "イ・ロハ",
+      "popularity": "5",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Riksa Dhirendra",
+      "popularity": "5",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Reza Avanluna",
+      "popularity": "5",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Nara Haramaung",
+      "popularity": "5",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Layla Alstroemeria",
+      "popularity": "5",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Etna Crimson",
+      "popularity": "5",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Azura Cecillia",
+      "popularity": "5",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Amicia Michella",
+      "popularity": "5",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "倉持めると",
+      "popularity": "0",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "リュ・ハリ",
+      "popularity": "0",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "ナ・セラ",
+      "popularity": "0",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "ガオン",
+      "popularity": "0",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "オ・ジユ",
+      "popularity": "0",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Xia Ekavira",
+      "popularity": "0",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Rai Galilei",
+      "popularity": "0",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Nagisa Arcinia",
+      "popularity": "0",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Hyona Elatiora",
+      "popularity": "0",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Derem Kado",
+      "popularity": "0",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "蕾米",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "莱恩",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "茉里",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "艾因",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "田野柴",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "瑞芙",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "狩砂",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "沙夜",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "江乱",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "欧珀",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "桃星",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "栞栞",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "暴食",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "星弥",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "星宸",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "无理",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "惑姫",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "弥希",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "度人",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "希侑",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "岁己",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "尤格",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "吉吉",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "友夏",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "千春",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "千幽",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "勾檀",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "勺",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "八木迪之",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "克克",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "光一",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "伊舞",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "伊深",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "九十九",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "七海",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "リア",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "ヨミヤ",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "ユキエ",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "ユア",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "マヒル",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "ハクジャ",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "シヴィル",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "コシヤ",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "ギルザレンIII世",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "ギリミ",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "カオス",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "アザ",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Zaion LanZa",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Vox Akuma",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Ver Vermillion",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Uki Violeta",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Sonny Brisko",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Shu Yamino",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Selen Tatsuki",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "o",
+      "3d": "x"
+    },
+    {
+      "name": "Scarle Yonaguni",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Rosemi Lovelock",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Ren Zotto",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Reimu Endou",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Pomu Rainpuff",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Petra Gurin",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Nina Kosaka",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Mysta Rias",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Millie Parfait",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Meloco Kyoran",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Maria Marionette",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Luca Kaneshiro",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Kyo Kaneko",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Kotoka Torahime",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Ike Eveland",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Hex Haywire",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Fulgur Ovid",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Finana Ryugu",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Enna Alouette",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Elira Pendora",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Doppio Dropscythe",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Aster Arcadia",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Alban Knox",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Aia Amare",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    }
+  ]
 }
