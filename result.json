@@ -9,7 +9,7 @@
     },
     {
       "name": "葛葉",
-      "popularity": "145",
+      "popularity": "150",
       "2dv2": "o",
       "2dv3": "o",
       "3d": "o"
@@ -23,14 +23,14 @@
     },
     {
       "name": "月ノ美兎",
-      "popularity": "100",
+      "popularity": "105",
       "2dv2": "o",
       "2dv3": "o",
       "3d": "o"
     },
     {
       "name": "星川サラ",
-      "popularity": "85",
+      "popularity": "90",
       "2dv2": "o",
       "2dv3": "o",
       "3d": "o"
@@ -57,10 +57,17 @@
       "3d": "o"
     },
     {
+      "name": "リゼ・ヘルエスタ",
+      "popularity": "75",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
       "name": "アンジュ・カトリーナ",
       "popularity": "75",
       "2dv2": "o",
-      "2dv3": "x",
+      "2dv3": "o",
       "3d": "o"
     },
     {
@@ -85,13 +92,6 @@
       "3d": "o"
     },
     {
-      "name": "リゼ・ヘルエスタ",
-      "popularity": "70",
-      "2dv2": "o",
-      "2dv3": "o",
-      "3d": "o"
-    },
-    {
       "name": "アルス・アルマル",
       "popularity": "70",
       "2dv2": "o",
@@ -107,6 +107,13 @@
     },
     {
       "name": "緑仙",
+      "popularity": "60",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "町田ちま",
       "popularity": "60",
       "2dv2": "o",
       "2dv3": "o",
@@ -135,13 +142,6 @@
     },
     {
       "name": "鈴鹿詩子",
-      "popularity": "55",
-      "2dv2": "o",
-      "2dv3": "o",
-      "3d": "o"
-    },
-    {
-      "name": "町田ちま",
       "popularity": "55",
       "2dv2": "o",
       "2dv3": "o",
@@ -232,6 +232,20 @@
       "3d": "o"
     },
     {
+      "name": "周央サンゴ",
+      "popularity": "45",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "ニュイ・ソシエール",
+      "popularity": "45",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
       "name": "ジョー・力一",
       "popularity": "45",
       "2dv2": "o",
@@ -253,6 +267,13 @@
       "3d": "o"
     },
     {
+      "name": "葉加瀬冬雪",
+      "popularity": "40",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
       "name": "花畑チャイカ",
       "popularity": "40",
       "2dv2": "o",
@@ -264,6 +285,13 @@
       "popularity": "40",
       "2dv2": "o",
       "2dv3": "x",
+      "3d": "o"
+    },
+    {
+      "name": "白雪巴",
+      "popularity": "40",
+      "2dv2": "o",
+      "2dv3": "o",
       "3d": "o"
     },
     {
@@ -281,13 +309,6 @@
       "3d": "o"
     },
     {
-      "name": "周央サンゴ",
-      "popularity": "40",
-      "2dv2": "o",
-      "2dv3": "x",
-      "3d": "o"
-    },
-    {
       "name": "ローレン・イロアス",
       "popularity": "40",
       "2dv2": "o",
@@ -296,13 +317,6 @@
     },
     {
       "name": "ベルモンド・バンデラス",
-      "popularity": "40",
-      "2dv2": "o",
-      "2dv3": "o",
-      "3d": "o"
-    },
-    {
-      "name": "ニュイ・ソシエール",
       "popularity": "40",
       "2dv2": "o",
       "2dv3": "o",
@@ -337,7 +351,7 @@
       "3d": "o"
     },
     {
-      "name": "葉加瀬冬雪",
+      "name": "葉山舞鈴",
       "popularity": "35",
       "2dv2": "o",
       "2dv3": "o",
@@ -348,13 +362,6 @@
       "popularity": "35",
       "2dv2": "o",
       "2dv3": "x",
-      "3d": "o"
-    },
-    {
-      "name": "白雪巴",
-      "popularity": "35",
-      "2dv2": "o",
-      "2dv3": "o",
       "3d": "o"
     },
     {
@@ -372,10 +379,10 @@
       "3d": "o"
     },
     {
-      "name": "葉山舞鈴",
+      "name": "森中花咲",
       "popularity": "30",
       "2dv2": "o",
-      "2dv3": "o",
+      "2dv3": "x",
       "3d": "o"
     },
     {
@@ -470,18 +477,18 @@
       "3d": "x"
     },
     {
-      "name": "森中花咲",
+      "name": "夕陽リリ",
       "popularity": "25",
       "2dv2": "o",
       "2dv3": "x",
       "3d": "o"
     },
     {
-      "name": "夕陽リリ",
+      "name": "四季凪アキラ",
       "popularity": "25",
-      "2dv2": "o",
+      "2dv2": "x",
       "2dv3": "x",
-      "3d": "o"
+      "3d": "x"
     },
     {
       "name": "卯月コウ",
@@ -505,14 +512,14 @@
       "3d": "o"
     },
     {
-      "name": "ましろ",
+      "name": "オリバー・エバンス",
       "popularity": "25",
       "2dv2": "o",
       "2dv3": "x",
       "3d": "o"
     },
     {
-      "name": "オリバー・エバンス",
+      "name": "ましろ",
       "popularity": "25",
       "2dv2": "o",
       "2dv3": "x",
@@ -582,18 +589,18 @@
       "3d": "o"
     },
     {
-      "name": "四季凪アキラ",
-      "popularity": "20",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
       "name": "ルイス・キャミー",
       "popularity": "20",
       "2dv2": "o",
       "2dv3": "o",
       "3d": "o"
+    },
+    {
+      "name": "ヤン・ナリ",
+      "popularity": "20",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
     },
     {
       "name": "フミ",
@@ -608,6 +615,13 @@
       "2dv2": "o",
       "2dv3": "o",
       "3d": "o"
+    },
+    {
+      "name": "風楽奏斗",
+      "popularity": "15",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
     },
     {
       "name": "雪城眞尋",
@@ -691,14 +705,7 @@
       "popularity": "15",
       "2dv2": "x",
       "2dv3": "o",
-      "3d": "x"
-    },
-    {
-      "name": "ヤン・ナリ",
-      "popularity": "15",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
+      "3d": "o"
     },
     {
       "name": "ミン・スゥーハ",
@@ -732,13 +739,6 @@
       "name": "飛鳥ひな",
       "popularity": "10",
       "2dv2": "o",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "風楽奏斗",
-      "popularity": "10",
-      "2dv2": "x",
       "2dv3": "x",
       "3d": "x"
     },
@@ -876,6 +876,13 @@
       "3d": "x"
     },
     {
+      "name": "倉持めると",
+      "popularity": "5",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
       "name": "五十嵐梨花",
       "popularity": "5",
       "2dv2": "x",
@@ -949,19 +956,12 @@
       "name": "Azura Cecillia",
       "popularity": "5",
       "2dv2": "x",
-      "2dv3": "x",
+      "2dv3": "o",
       "3d": "x"
     },
     {
       "name": "Amicia Michella",
       "popularity": "5",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "倉持めると",
-      "popularity": "0",
       "2dv2": "x",
       "2dv3": "x",
       "3d": "x"
@@ -1030,6 +1030,13 @@
       "3d": "x"
     },
     {
+      "name": "赤城ウェン",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
       "name": "蕾米",
       "popularity": null,
       "2dv2": "x",
@@ -1052,6 +1059,13 @@
     },
     {
       "name": "艾因",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "緋八マナ",
       "popularity": null,
       "2dv2": "x",
       "2dv3": "x",
@@ -1184,6 +1198,13 @@
       "3d": "x"
     },
     {
+      "name": "宇佐美リト",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
       "name": "吉吉",
       "popularity": null,
       "2dv2": "x",
@@ -1241,6 +1262,13 @@
     },
     {
       "name": "光一",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "佐伯イッテツ",
       "popularity": null,
       "2dv2": "x",
       "2dv3": "x",
@@ -1359,13 +1387,6 @@
       "3d": "x"
     },
     {
-      "name": "Zaion LanZa",
-      "popularity": null,
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
       "name": "Vox Akuma",
       "popularity": null,
       "2dv2": "x",
@@ -1418,7 +1439,7 @@
       "name": "Rosemi Lovelock",
       "popularity": null,
       "2dv2": "x",
-      "2dv3": "x",
+      "2dv3": "o",
       "3d": "x"
     },
     {
@@ -1558,7 +1579,7 @@
       "name": "Aster Arcadia",
       "popularity": null,
       "2dv2": "x",
-      "2dv3": "x",
+      "2dv3": "o",
       "3d": "x"
     },
     {
