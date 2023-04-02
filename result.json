@@ -169,6 +169,13 @@
       "3d": "o"
     },
     {
+      "name": "フレン・E・ルスタリオ",
+      "popularity": "55",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
       "name": "イブラヒム",
       "popularity": "55",
       "2dv2": "o",
@@ -197,13 +204,6 @@
       "3d": "o"
     },
     {
-      "name": "フレン・E・ルスタリオ",
-      "popularity": "50",
-      "2dv2": "o",
-      "2dv3": "o",
-      "3d": "o"
-    },
-    {
       "name": "でびでび・でびる",
       "popularity": "50",
       "2dv2": "o",
@@ -226,6 +226,13 @@
     },
     {
       "name": "西園チグサ",
+      "popularity": "45",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
+      "name": "夜見れな",
       "popularity": "45",
       "2dv2": "o",
       "2dv3": "o",
@@ -296,13 +303,6 @@
     },
     {
       "name": "奈羅花",
-      "popularity": "40",
-      "2dv2": "o",
-      "2dv3": "o",
-      "3d": "o"
-    },
-    {
-      "name": "夜見れな",
       "popularity": "40",
       "2dv2": "o",
       "2dv3": "o",
@@ -967,6 +967,34 @@
       "3d": "x"
     },
     {
+      "name": "赤城ウェン",
+      "popularity": "0",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "緋八マナ",
+      "popularity": "0",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "宇佐美リト",
+      "popularity": "0",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "佐伯イッテツ",
+      "popularity": "0",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
       "name": "リュ・ハリ",
       "popularity": "0",
       "2dv2": "x",
@@ -1030,13 +1058,6 @@
       "3d": "x"
     },
     {
-      "name": "赤城ウェン",
-      "popularity": null,
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
       "name": "蕾米",
       "popularity": null,
       "2dv2": "x",
@@ -1059,13 +1080,6 @@
     },
     {
       "name": "艾因",
-      "popularity": null,
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "緋八マナ",
       "popularity": null,
       "2dv2": "x",
       "2dv3": "x",
@@ -1198,13 +1212,6 @@
       "3d": "x"
     },
     {
-      "name": "宇佐美リト",
-      "popularity": null,
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
       "name": "吉吉",
       "popularity": null,
       "2dv2": "x",
@@ -1262,13 +1269,6 @@
     },
     {
       "name": "光一",
-      "popularity": null,
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "佐伯イッテツ",
       "popularity": null,
       "2dv2": "x",
       "2dv3": "x",
