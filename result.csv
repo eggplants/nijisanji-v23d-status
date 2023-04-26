@@ -100,6 +100,7 @@ Hana Macchia,25,x,x,x
 渋谷ハジメ,15,o,o,o
 海妹四葉,15,x,x,o
 愛園愛美,15,o,o,o
+小清水透,15,x,x,x
 宇志海いちご,15,o,x,o
 ミン・スゥーハ,15,x,x,x
 セフィナ,15,x,x,x
@@ -109,7 +110,6 @@ Hana Macchia,25,x,x,x
 東堂コハク,10,o,x,o
 春崎エアル,10,o,x,x
 成瀬鳴,10,o,o,o
-小清水透,10,x,x,x
 安土桃,10,o,o,x
 天ヶ瀬むゆ,10,x,x,o
 モイラ,10,o,o,o
@@ -140,7 +140,11 @@ Etna Crimson,5,x,x,x
 Azura Cecillia,5,x,o,x
 Amicia Michella,5,x,x,x
 赤城ウェン,0,x,x,x
+星導ショウ,0,x,x,x
+小柳ロウ,0,x,x,x
 宇佐美リト,0,x,x,x
+叢雲カゲツ,0,x,x,x
+伊波ライ,0,x,x,x
 リュ・ハリ,0,x,x,x
 ナ・セラ,0,x,x,x
 ガオン,0,x,x,x
