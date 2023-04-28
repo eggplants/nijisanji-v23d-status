@@ -488,7 +488,7 @@
       "popularity": "25",
       "2dv2": "x",
       "2dv3": "x",
-      "3d": "x"
+      "3d": "o"
     },
     {
       "name": "卯月コウ",
@@ -515,7 +515,7 @@
       "name": "オリバー・エバンス",
       "popularity": "25",
       "2dv2": "o",
-      "2dv3": "x",
+      "2dv3": "o",
       "3d": "o"
     },
     {
@@ -942,7 +942,7 @@
       "name": "Reza Avanluna",
       "popularity": "5",
       "2dv2": "o",
-      "2dv3": "x",
+      "2dv3": "o",
       "3d": "x"
     },
     {
@@ -1509,7 +1509,7 @@
       "name": "Reimu Endou",
       "popularity": null,
       "2dv2": "x",
-      "2dv3": "x",
+      "2dv3": "o",
       "3d": "x"
     },
     {

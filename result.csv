@@ -68,11 +68,11 @@ Mika Melatika,30,o,x,x
 物述有栖,25,o,o,o
 渡会雲雀,25,x,x,x
 夕陽リリ,25,o,x,o
-四季凪アキラ,25,x,x,x
+四季凪アキラ,25,x,x,o
 卯月コウ,25,o,x,o
 北小路ヒスイ,25,o,o,o
 伏見ガク,25,o,x,o
-オリバー・エバンス,25,o,x,o
+オリバー・エバンス,25,o,o,o
 ましろ,25,o,x,o
 Hana Macchia,25,x,x,x
 黒井しば,20,o,x,x
@@ -133,7 +133,7 @@ Bonnivier Pranaja,10,x,x,x
 ソ・ナギ,5,x,x,x
 イ・ロハ,5,x,x,x
 Riksa Dhirendra,5,x,x,x
-Reza Avanluna,5,o,x,x
+Reza Avanluna,5,o,o,x
 Nara Haramaung,5,x,x,x
 Layla Alstroemeria,5,x,x,x
 Etna Crimson,5,x,x,x
@@ -214,7 +214,7 @@ Selen Tatsuki,nd,x,o,x
 Scarle Yonaguni,nd,x,x,x
 Rosemi Lovelock,nd,x,o,x
 Ren Zotto,nd,x,x,x
-Reimu Endou,nd,x,x,x
+Reimu Endou,nd,x,o,x
 Rain Drops,nd,x,x,x
 ROF-MAO,nd,x,x,x
 Pomu Rainpuff,nd,x,x,x
