@@ -442,6 +442,13 @@
       "3d": "o"
     },
     {
+      "name": "ましろ",
+      "popularity": "30",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "o"
+    },
+    {
       "name": "Mika Melatika",
       "popularity": "30",
       "2dv2": "o",
@@ -516,13 +523,6 @@
       "popularity": "25",
       "2dv2": "o",
       "2dv3": "o",
-      "3d": "o"
-    },
-    {
-      "name": "ましろ",
-      "popularity": "25",
-      "2dv2": "o",
-      "2dv3": "x",
       "3d": "o"
     },
     {
