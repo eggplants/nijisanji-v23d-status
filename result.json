@@ -750,6 +750,13 @@
       "3d": "x"
     },
     {
+      "name": "鏑木ろこ",
+      "popularity": "10",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
       "name": "轟京子",
       "popularity": "10",
       "2dv2": "o",
@@ -836,13 +843,6 @@
     {
       "name": "Bonnivier Pranaja",
       "popularity": "10",
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "鏑木ろこ",
-      "popularity": "5",
       "2dv2": "x",
       "2dv3": "x",
       "3d": "x"
