@@ -37,6 +37,7 @@ name,popularity,2dv2,2dv3,3d
 周央サンゴ,45,o,o,o
 ニュイ・ソシエール,45,o,o,o
 ジョー・力一,45,o,o,o
+える,45,o,o,o
 葉加瀬冬雪,40,o,o,o
 花畑チャイカ,40,o,o,o
 舞元啓介,40,o,x,o
@@ -44,7 +45,6 @@ name,popularity,2dv2,2dv3,3d
 奈羅花,40,o,o,o
 ローレン・イロアス,40,o,x,x
 ベルモンド・バンデラス,40,o,o,o
-える,40,o,o,o
 魔界ノりりむ,35,o,x,o
 静凛,35,o,o,o
 長尾景,35,o,o,o
@@ -76,6 +76,7 @@ Mika Melatika,30,o,x,x
 Hana Macchia,25,x,x,x
 黒井しば,20,o,x,x
 神田笑一,20,o,o,o
+海妹四葉,20,x,x,o
 桜凛月,20,o,o,o
 来栖夏芽,20,o,o,o
 朝日南アカネ,20,o,o,o
@@ -97,7 +98,6 @@ Hana Macchia,25,x,x,x
 空星きらめ,15,o,o,o
 瀬戸美夜子,15,o,o,x
 渋谷ハジメ,15,o,o,o
-海妹四葉,15,x,x,o
 愛園愛美,15,o,o,o
 小清水透,15,x,x,x
 宇志海いちご,15,o,x,o
@@ -116,7 +116,6 @@ Hana Macchia,25,x,x,x
 天ヶ瀬むゆ,10,x,x,o
 モイラ,10,o,o,o
 ソフィア・ヴァレンタイン,10,x,x,x
-ZEA Cornelia,10,x,x,x
 Taka Radjiman,10,x,x,x
 Siska Leontyne,10,x,o,x
 Bonnivier Pranaja,10,x,x,x
