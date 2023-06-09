@@ -78,6 +78,13 @@
       "3d": "o"
     },
     {
+      "name": "樋口楓",
+      "popularity": "70",
+      "2dv2": "o",
+      "2dv3": "o",
+      "3d": "o"
+    },
+    {
       "name": "本間ひまわり",
       "popularity": "70",
       "2dv2": "o",
@@ -94,13 +101,6 @@
     {
       "name": "アルス・アルマル",
       "popularity": "70",
-      "2dv2": "o",
-      "2dv3": "o",
-      "3d": "o"
-    },
-    {
-      "name": "樋口楓",
-      "popularity": "65",
       "2dv2": "o",
       "2dv3": "o",
       "3d": "o"
@@ -775,7 +775,7 @@
       "popularity": "10",
       "2dv2": "o",
       "2dv3": "x",
-      "3d": "x"
+      "3d": "o"
     },
     {
       "name": "成瀬鳴",
@@ -1107,13 +1107,6 @@
       "3d": "x"
     },
     {
-      "name": "瑞芙",
-      "popularity": null,
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
       "name": "狩砂",
       "popularity": null,
       "2dv2": "x",
@@ -1423,6 +1416,13 @@
     },
     {
       "name": "さくゆい",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "VΔLZ",
       "popularity": null,
       "2dv2": "x",
       "2dv3": "x",
