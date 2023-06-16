@@ -694,6 +694,13 @@
       "3d": "o"
     },
     {
+      "name": "春崎エアル",
+      "popularity": "15",
+      "2dv2": "o",
+      "2dv3": "x",
+      "3d": "o"
+    },
+    {
       "name": "愛園愛美",
       "popularity": "15",
       "2dv2": "o",
@@ -771,13 +778,6 @@
       "3d": "o"
     },
     {
-      "name": "春崎エアル",
-      "popularity": "10",
-      "2dv2": "o",
-      "2dv3": "x",
-      "3d": "o"
-    },
-    {
       "name": "成瀬鳴",
       "popularity": "10",
       "2dv2": "o",
@@ -810,13 +810,6 @@
       "popularity": "10",
       "2dv2": "x",
       "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "Siska Leontyne",
-      "popularity": "10",
-      "2dv2": "x",
-      "2dv3": "o",
       "3d": "x"
     },
     {
