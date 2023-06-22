@@ -225,13 +225,6 @@
       "3d": "o"
     },
     {
-      "name": "郡道美玲",
-      "popularity": "45",
-      "2dv2": "o",
-      "2dv3": "o",
-      "3d": "o"
-    },
-    {
       "name": "西園チグサ",
       "popularity": "45",
       "2dv2": "o",
@@ -1170,13 +1163,6 @@
       "3d": "x"
     },
     {
-      "name": "无理",
-      "popularity": null,
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
       "name": "惑姫",
       "popularity": null,
       "2dv2": "x",
@@ -1415,6 +1401,13 @@
       "3d": "x"
     },
     {
+      "name": "Yu Q. Wilson",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
       "name": "VΔLZ",
       "popularity": null,
       "2dv2": "x",
@@ -1429,7 +1422,21 @@
       "3d": "x"
     },
     {
+      "name": "Vezalius Bandage",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
       "name": "Ver Vermillion",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Vantacrow Bringer",
       "popularity": null,
       "2dv2": "x",
       "2dv3": "x",
