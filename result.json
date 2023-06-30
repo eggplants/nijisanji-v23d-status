@@ -375,7 +375,7 @@
       "name": "森中花咲",
       "popularity": "30",
       "2dv2": "o",
-      "2dv3": "x",
+      "2dv3": "o",
       "3d": "o"
     },
     {
@@ -543,7 +543,7 @@
       "name": "海妹四葉",
       "popularity": "20",
       "2dv2": "x",
-      "2dv3": "x",
+      "2dv3": "o",
       "3d": "o"
     },
     {
@@ -1432,7 +1432,7 @@
       "name": "Ver Vermillion",
       "popularity": null,
       "2dv2": "x",
-      "2dv3": "x",
+      "2dv3": "o",
       "3d": "x"
     },
     {
@@ -1565,7 +1565,7 @@
       "name": "Millie Parfait",
       "popularity": null,
       "2dv2": "x",
-      "2dv3": "x",
+      "2dv3": "o",
       "3d": "x"
     },
     {
@@ -1635,7 +1635,7 @@
       "name": "Fulgur Ovid",
       "popularity": null,
       "2dv2": "x",
-      "2dv3": "x",
+      "2dv3": "o",
       "3d": "x"
     },
     {

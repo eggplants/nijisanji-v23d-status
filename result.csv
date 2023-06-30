@@ -52,7 +52,7 @@ name,popularity,2dv2,2dv3,3d
 夢月ロア,35,o,x,o
 レオス・ヴィンセント,35,o,o,o
 渡会雲雀,30,x,x,o
-森中花咲,30,o,x,o
+森中花咲,30,o,o,o
 文野環,30,o,x,o
 弦月藤士郎,30,o,o,o
 夢追翔,30,o,o,o
@@ -76,7 +76,7 @@ Mika Melatika,30,o,x,x
 Hana Macchia,25,x,x,x
 黒井しば,20,o,x,x
 神田笑一,20,o,o,o
-海妹四葉,20,x,x,o
+海妹四葉,20,x,o,o
 来栖夏芽,20,o,o,o
 早瀬走,20,o,o,o
 山神カルタ,20,o,o,o
@@ -203,7 +203,7 @@ Yu Q. Wilson,nd,x,x,x
 VΔLZ,nd,x,x,x
 Vox Akuma,nd,x,x,x
 Vezalius Bandage,nd,x,x,x
-Ver Vermillion,nd,x,x,x
+Ver Vermillion,nd,x,o,x
 Vantacrow Bringer,nd,x,x,x
 VOLTACTION,nd,x,x,x
 Uki Violeta,nd,x,x,x
@@ -222,7 +222,7 @@ Petra Gurin,nd,x,x,x
 Nornis,nd,x,x,x
 Nina Kosaka,nd,x,x,x
 Mysta Rias,nd,x,x,x
-Millie Parfait,nd,x,x,x
+Millie Parfait,nd,x,o,x
 Meloco Kyoran,nd,x,x,x
 Maria Marionette,nd,x,x,x
 Luxiem,nd,x,x,x
@@ -232,7 +232,7 @@ Kotoka Torahime,nd,x,x,x
 JuvveL,nd,x,x,x
 Ike Eveland,nd,x,x,x
 Hex Haywire,nd,x,x,x
-Fulgur Ovid,nd,x,x,x
+Fulgur Ovid,nd,x,o,x
 Finana Ryugu,nd,x,x,x
 Enna Alouette,nd,x,x,x
 Elira Pendora,nd,x,x,x
