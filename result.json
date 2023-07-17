@@ -771,6 +771,13 @@
       "3d": "x"
     },
     {
+      "name": "獅子堂あかり",
+      "popularity": "10",
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
       "name": "東堂コハク",
       "popularity": "10",
       "2dv2": "o",
@@ -844,13 +851,6 @@
       "name": "矢車りね",
       "popularity": "5",
       "2dv2": "o",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "獅子堂あかり",
-      "popularity": "5",
-      "2dv2": "x",
       "2dv3": "x",
       "3d": "x"
     },
@@ -964,13 +964,6 @@
       "popularity": "5",
       "2dv2": "x",
       "2dv3": "o",
-      "3d": "x"
-    },
-    {
-      "name": "Amicia Michella",
-      "popularity": "5",
-      "2dv2": "x",
-      "2dv3": "x",
       "3d": "x"
     },
     {
