@@ -1,23 +1,23 @@
 name,popularity,2dv2,2dv3,3d
-黒井しば,nd,o,x,x
+黒井しば,nd,o,x,o
 鷹宮リオン,nd,o,o,o
 魔界ノりりむ,nd,o,x,o
 魔使マオ,nd,o,o,o
-飛鳥ひな,nd,o,x,x
+飛鳥ひな,nd,o,x,o
 風楽奏斗,nd,x,x,o
 静凛,nd,o,o,o
 雪城眞尋,nd,o,o,o
 雨森小夜,nd,o,x,o
 雨&#32426;,nd,x,x,x
 長尾景,nd,o,o,o
-鏑木ろこ,nd,x,x,x
+鏑木ろこ,nd,x,x,o
 鈴鹿詩子,nd,o,o,o
 鈴谷アキ,nd,o,o,o
 鈴木勝,nd,o,o,o
 轟京子,nd,o,o,o
 赤羽葉子,nd,o,o,o
-赤城ウェン,nd,x,x,x
-語部紡,nd,x,x,x
+赤城ウェン,nd,x,x,o
+語部紡,nd,x,x,o
 西園チグサ,nd,o,o,o
 蜜言,nd,x,x,x
 蕾米,nd,x,x,x
@@ -30,23 +30,23 @@ name,popularity,2dv2,2dv3,3d
 艾因,nd,x,x,x
 舞元啓介,nd,o,x,o
 緑仙,nd,o,o,o
-緋八マナ,nd,x,x,x
+緋八マナ,nd,x,x,o
 笹木咲,nd,o,o,o
 竜胆尊,nd,o,x,o
 空星きらめ,nd,o,o,o
 神田笑一,nd,o,o,o
 社築,nd,o,x,o
-石神のぞみ,nd,x,x,x
-矢車りね,nd,o,x,x
+石神のぞみ,nd,x,x,o
+矢車りね,nd,o,x,o
 相羽ういは,nd,o,x,o
 白雪巴,nd,o,o,o
 町田ちま,nd,o,o,o
 甲斐田晴,nd,o,o,o
 田野柴,nd,x,x,x
-獅子堂あかり,nd,x,x,x
+獅子堂あかり,nd,x,x,o
 狩砂,nd,x,x,x
 物述有栖,nd,o,o,o
-瀬戸美夜子,nd,o,o,x
+瀬戸美夜子,nd,o,o,o
 漆羽,nd,x,x,x
 渡会雲雀,nd,x,x,o
 渋谷ハジメ,nd,o,o,o
@@ -69,8 +69,8 @@ name,popularity,2dv2,2dv3,3d
 晴一,nd,x,x,x
 春崎エアル,nd,o,x,o
 星川サラ,nd,o,o,o
-星導ショウ,nd,x,x,x
-明楽レイ,nd,x,x,x
+星導ショウ,nd,x,x,o
+明楽レイ,nd,x,x,o
 早瀬走,nd,o,o,o
 文野環,nd,o,x,o
 成瀬鳴,nd,o,o,o
@@ -86,12 +86,12 @@ name,popularity,2dv2,2dv3,3d
 山神カルタ,nd,o,o,o
 尤格,nd,x,x,x
 小野町春香,nd,o,o,o
-小清水透,nd,x,x,x
-小柳ロウ,nd,x,x,x
+小清水透,nd,x,x,o
+小柳ロウ,nd,x,x,o
 家長むぎ,nd,o,x,o
-安土桃,nd,o,o,x
+安土桃,nd,o,o,o
 宇志海いちご,nd,o,x,o
-宇佐美リト,nd,x,x,x
+宇佐美リト,nd,x,x,o
 奈羅花,nd,o,o,o
 天宮こころ,nd,o,o,o
 天ヶ瀬むゆ,nd,x,x,o
@@ -104,7 +104,7 @@ name,popularity,2dv2,2dv3,3d
 周央サンゴ,nd,o,o,o
 吉吉,nd,x,x,x
 叶,nd,o,o,o
-叢雲カゲツ,nd,x,x,x
+叢雲カゲツ,nd,x,x,o
 友夏,nd,x,x,x
 卯月コウ,nd,o,x,o
 千春,nd,x,x,x
@@ -122,13 +122,13 @@ name,popularity,2dv2,2dv3,3d
 光一,nd,x,x,x
 先斗寧,nd,x,o,o
 健屋花那,nd,o,o,o
-倉持めると,nd,x,x,x
-佐伯イッテツ,nd,x,x,x
+倉持めると,nd,x,x,o
+佐伯イッテツ,nd,x,x,o
 伏見ガク,nd,o,x,o
 伊舞,nd,x,x,x
 伊深,nd,x,x,x
-伊波ライ,nd,x,x,x
-五十嵐梨花,nd,x,x,x
+伊波ライ,nd,x,x,o
+五十嵐梨花,nd,x,x,o
 九十九,nd,x,x,x
 不破湊,nd,o,o,o
 三枝明那,nd,o,x,o
@@ -139,29 +139,29 @@ name,popularity,2dv2,2dv3,3d
 レオス・ヴィンセント,nd,o,o,o
 レイン・パターソン,nd,o,o,o
 ルイス・キャミー,nd,o,o,o
-リュ・ハリ,nd,x,x,x
+リュ・ハリ,nd,x,x,o
 リゼ・ヘルエスタ,nd,o,o,o
-リア,nd,x,x,x
+リア,nd,x,x,o
 ラトナ・プティ,nd,o,o,o
 ヨミヤ,nd,x,x,x
 ユキエ,nd,x,x,x
 ユア,nd,x,x,x
-ヤン・ナリ,nd,x,x,x
+ヤン・ナリ,nd,x,x,o
 モイラ,nd,o,o,o
-ミン・スゥーハ,nd,x,x,x
+ミン・スゥーハ,nd,x,x,o
 ベルモンド・バンデラス,nd,o,o,o
 フレン・E・ルスタリオ,nd,o,o,o
 フミ,nd,o,o,o
-バン・ハダ,nd,x,x,x
-ハ・ユン,nd,x,x,x
+バン・ハダ,nd,x,x,o
+ハ・ユン,nd,x,x,o
 ハクジャ,nd,x,x,x
 ニュイ・ソシエール,nd,o,o,o
-ナ・セラ,nd,x,x,x
+ナ・セラ,nd,x,x,o
 ドーラ,nd,o,o,o
-ソ・ナギ,nd,x,x,x
-ソフィア・ヴァレンタイン,nd,x,x,x
+ソ・ナギ,nd,x,x,o
+ソフィア・ヴァレンタイン,nd,x,x,o
 セラフ・ダズルガーデン,nd,x,x,o
-セフィナ,nd,x,x,x
+セフィナ,nd,x,x,o
 ジョー・力一,nd,o,o,o
 シヴィル,nd,x,x,x
 シスター・クレア,nd,o,o,o
@@ -169,12 +169,12 @@ name,popularity,2dv2,2dv3,3d
 グウェル・オス・ガール,nd,o,o,o
 ギルザレンIII世,nd,x,x,x
 ギリミ,nd,x,x,x
-ガオン,nd,x,x,x
-オ・ジユ,nd,x,x,x
+ガオン,nd,x,x,o
+オ・ジユ,nd,x,x,o
 オリバー・エバンス,nd,o,o,o
 エリー・コニファー,nd,o,x,o
 エクス・アルビオ,nd,o,x,o
-イ・ロハ,nd,x,x,x
+イ・ロハ,nd,x,x,o
 イブラヒム,nd,o,x,o
 アンジュ・カトリーナ,nd,o,o,o
 アルス・アルマル,nd,o,o,o
@@ -186,7 +186,7 @@ name,popularity,2dv2,2dv3,3d
 えま★おうがすと,nd,o,o,o
 Yu Q. Wilson,nd,x,x,x
 Xia Ekavira,nd,o,x,x
-VΔLZ,nd,x,x,x
+VΔLZ,nd,x,x,o
 Vox Akuma,nd,x,x,x
 Vezalius Bandage,nd,x,x,x
 Ver Vermillion,nd,x,o,x
@@ -204,10 +204,10 @@ Ren Zotto,nd,x,x,x
 Reimu Endou,nd,x,o,x
 Rain Drops,nd,x,x,x
 Rai Galilei,nd,x,x,x
-ROF-MAO,nd,x,x,x
+ROF-MAO,nd,x,x,o
 Pomu Rainpuff,nd,x,o,x
 Petra Gurin,nd,x,x,x
-Nornis,nd,x,x,x
+Nornis,nd,x,x,o
 Nagisa Arcinia,nd,o,x,x
 Millie Parfait,nd,x,o,x
 Mika Melatika,nd,o,x,x
