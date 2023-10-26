@@ -890,13 +890,6 @@
       "3d": "x"
     },
     {
-      "name": "伊深",
-      "popularity": null,
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
       "name": "伊波ライ",
       "popularity": null,
       "2dv2": "x",
@@ -1324,6 +1317,13 @@
       "3d": "x"
     },
     {
+      "name": "Victoria Brightshield",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
       "name": "Vezalius Bandage",
       "popularity": null,
       "2dv2": "x",
@@ -1527,6 +1527,13 @@
       "3d": "x"
     },
     {
+      "name": "Kunai Nakasato",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
       "name": "Kotoka Torahime",
       "popularity": null,
       "2dv2": "x",
@@ -1614,6 +1621,13 @@
       "name": "Derem Kado",
       "popularity": null,
       "2dv2": "o",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "Claude Clawmark",
+      "popularity": null,
+      "2dv2": "x",
       "2dv3": "x",
       "3d": "x"
     },
