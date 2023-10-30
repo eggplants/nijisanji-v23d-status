@@ -183,13 +183,6 @@
       "3d": "x"
     },
     {
-      "name": "茉里",
-      "popularity": null,
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
       "name": "花畑チャイカ",
       "popularity": null,
       "2dv2": "o",
@@ -1551,13 +1544,6 @@
       "name": "Ike Eveland",
       "popularity": null,
       "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "Hyona Elatiora",
-      "popularity": null,
-      "2dv2": "o",
       "2dv3": "x",
       "3d": "x"
     },
