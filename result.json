@@ -232,6 +232,13 @@
       "3d": "o"
     },
     {
+      "name": "立伝都々",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "o"
+    },
+    {
       "name": "空星きらめ",
       "popularity": null,
       "2dv2": "o",
@@ -405,6 +412,13 @@
       "2dv2": "x",
       "2dv3": "x",
       "3d": "x"
+    },
+    {
+      "name": "栞葉るり",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "o"
     },
     {
       "name": "栞栞",
@@ -1024,6 +1038,13 @@
     },
     {
       "name": "ミン・スゥーハ",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "o"
+    },
+    {
+      "name": "ミラン・ケストレル",
       "popularity": null,
       "2dv2": "x",
       "2dv3": "x",
