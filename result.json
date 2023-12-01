@@ -57,6 +57,13 @@
       "3d": "o"
     },
     {
+      "name": "雪&#28891;",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
       "name": "雨森小夜",
       "popularity": null,
       "2dv2": "o",
@@ -216,6 +223,13 @@
       "2dv2": "x",
       "2dv3": "x",
       "3d": "o"
+    },
+    {
+      "name": "米汀",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
     },
     {
       "name": "笹木咲",
@@ -720,6 +734,13 @@
       "2dv2": "o",
       "2dv3": "o",
       "3d": "o"
+    },
+    {
+      "name": "向&#38451;",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
     },
     {
       "name": "吉吉",
@@ -1661,6 +1682,13 @@
     },
     {
       "name": "&#31163;枝",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "&#24085;可",
       "popularity": null,
       "2dv2": "x",
       "2dv3": "x",
