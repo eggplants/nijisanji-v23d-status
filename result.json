@@ -57,25 +57,11 @@
       "3d": "o"
     },
     {
-      "name": "雪&#28891;",
-      "popularity": null,
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
       "name": "雨森小夜",
       "popularity": null,
       "2dv2": "o",
       "2dv3": "x",
       "3d": "o"
-    },
-    {
-      "name": "雨&#32426;",
-      "popularity": null,
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
     },
     {
       "name": "長尾景",
@@ -596,13 +582,6 @@
       "3d": "x"
     },
     {
-      "name": "岁己",
-      "popularity": null,
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
       "name": "山神カルタ",
       "popularity": null,
       "2dv2": "o",
@@ -736,13 +715,6 @@
       "3d": "o"
     },
     {
-      "name": "向&#38451;",
-      "popularity": null,
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
       "name": "吉吉",
       "popularity": null,
       "2dv2": "x",
@@ -834,21 +806,7 @@
       "3d": "o"
     },
     {
-      "name": "初&#28625;",
-      "popularity": null,
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
       "name": "八木迪之",
-      "popularity": null,
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "入福&#27493;",
       "popularity": null,
       "2dv2": "x",
       "2dv3": "x",
@@ -1023,7 +981,21 @@
       "3d": "o"
     },
     {
+      "name": "ライチ",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
       "name": "ヨミヤ",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "ユキショ",
       "popularity": null,
       "2dv2": "x",
       "2dv3": "x",
@@ -1093,6 +1065,20 @@
       "3d": "o"
     },
     {
+      "name": "ヒヒ",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "パコ",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
       "name": "バン・ハダ",
       "popularity": null,
       "2dv2": "x",
@@ -1105,6 +1091,13 @@
       "2dv2": "x",
       "2dv3": "x",
       "3d": "o"
+    },
+    {
+      "name": "ハツセ",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
     },
     {
       "name": "ハクジャ",
@@ -1160,6 +1153,13 @@
       "popularity": null,
       "2dv2": "x",
       "2dv3": "x",
+      "3d": "o"
+    },
+    {
+      "name": "スイ",
+      "popularity": null,
+      "2dv2": "o",
+      "2dv3": "o",
       "3d": "o"
     },
     {
@@ -1275,7 +1275,28 @@
       "3d": "o"
     },
     {
+      "name": "アユミ",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "アメキ",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
       "name": "アザ",
+      "popularity": null,
+      "2dv2": "x",
+      "2dv3": "x",
+      "3d": "x"
+    },
+    {
+      "name": "アゥ",
       "popularity": null,
       "2dv2": "x",
       "2dv3": "x",
@@ -1678,27 +1699,6 @@
       "popularity": null,
       "2dv2": "x",
       "2dv3": "o",
-      "3d": "x"
-    },
-    {
-      "name": "&#31163;枝",
-      "popularity": null,
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "&#24085;可",
-      "popularity": null,
-      "2dv2": "x",
-      "2dv3": "x",
-      "3d": "x"
-    },
-    {
-      "name": "&#21710;小&#21596;",
-      "popularity": null,
-      "2dv2": "x",
-      "2dv3": "x",
       "3d": "x"
     }
   ]
