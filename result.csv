@@ -85,7 +85,7 @@ name,popularity,2dv2,2dv3,3d
 山神カルタ,nd,o,o,o
 尤格,nd,x,x,x
 小野町春香,nd,o,o,o
-小清水透,nd,x,x,o
+小清水透,nd,x,o,o
 小柳ロウ,nd,x,x,o
 家長むぎ,nd,o,x,o
 安土桃,nd,o,o,o
@@ -162,7 +162,7 @@ name,popularity,2dv2,2dv3,3d
 ドーラ,nd,o,o,o
 ソ・ナギ,nd,x,x,o
 ソフィア・ヴァレンタイン,nd,x,x,o
-セラフ・ダズルガーデン,nd,x,x,o
+セラフ・ダズルガーデン,nd,x,o,o
 セフィナ,nd,x,x,o
 スイ,nd,o,o,o
 ジョー・力一,nd,o,o,o
@@ -234,7 +234,7 @@ Finana Ryugu,nd,x,o,x
 Etna Crimson,nd,x,x,x
 Enna Alouette,nd,x,x,x
 Elira Pendora,nd,x,x,x
-Doppio Dropscythe,nd,x,x,x
+Doppio Dropscythe,nd,x,o,x
 Derem Kado,nd,o,o,x
 Claude Clawmark,nd,x,x,x
 ChroNoiR,nd,x,x,x

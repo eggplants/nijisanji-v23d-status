@@ -606,7 +606,7 @@
       "name": "小清水透",
       "popularity": null,
       "2dv2": "x",
-      "2dv3": "x",
+      "2dv3": "o",
       "3d": "o"
     },
     {
@@ -1145,7 +1145,7 @@
       "name": "セラフ・ダズルガーデン",
       "popularity": null,
       "2dv2": "x",
-      "2dv3": "x",
+      "2dv3": "o",
       "3d": "o"
     },
     {
@@ -1649,7 +1649,7 @@
       "name": "Doppio Dropscythe",
       "popularity": null,
       "2dv2": "x",
-      "2dv3": "x",
+      "2dv3": "o",
       "3d": "x"
     },
     {
