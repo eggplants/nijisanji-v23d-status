@@ -1303,9 +1303,9 @@
       "3d": "x"
     },
     {
-      "name": "ましろ",
+      "name": "ましろ爻",
       "popularity": null,
-      "2dv2": "o",
+      "2dv2": "x",
       "2dv3": "x",
       "3d": "o"
     },
@@ -1517,13 +1517,6 @@
       "popularity": null,
       "2dv2": "x",
       "2dv3": "o",
-      "3d": "x"
-    },
-    {
-      "name": "Mika Melatika",
-      "popularity": null,
-      "2dv2": "o",
-      "2dv3": "x",
       "3d": "x"
     },
     {
