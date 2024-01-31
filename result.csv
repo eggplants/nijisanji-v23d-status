@@ -46,7 +46,7 @@ name,popularity,2dv2,2dv3,3d
 物述有栖,nd,o,o,o
 瀬戸美夜子,nd,o,o,o
 漆羽,nd,x,x,x
-渡会雲雀,nd,x,x,o
+渡会雲雀,nd,x,o,o
 渋谷ハジメ,nd,o,o,o
 海妹四葉,nd,x,o,o
 沙夜,nd,x,x,x
@@ -213,7 +213,7 @@ Nornis,nd,x,x,o
 Nagisa Arcinia,nd,o,x,x
 Millie Parfait,nd,x,o,x
 Meloco Kyoran,nd,x,x,x
-Maria Marionette,nd,x,x,x
+Maria Marionette,nd,x,o,x
 Luxiem,nd,x,x,x
 Luca Kaneshiro,nd,x,x,x
 Layla Alstroemeria,nd,x,o,x
@@ -228,7 +228,7 @@ Fulgur Ovid,nd,x,o,x
 Finana Ryugu,nd,x,o,x
 Etna Crimson,nd,x,x,x
 Enna Alouette,nd,x,x,x
-Elira Pendora,nd,x,x,x
+Elira Pendora,nd,x,o,x
 Doppio Dropscythe,nd,x,o,x
 Derem Kado,nd,o,o,x
 Claude Clawmark,nd,x,x,x
